@@ -1,1 +1,2170 @@
-[{"Distribution": "3CX Phone System", "Home Page": "http://www.3cx.com/", "OS Type:": "Linux", "Based on:": "Debian", "Origin:": "Cyprus", "Distro Watch": "https://distrowatch.com/table.php?distribution=3cx"}, {"Distribution": "4MLinux", "Home Page": "https://4mlinux.com/", "OS Type:": "Linux", "Based on:": null, "Origin:": "Poland", "Distro Watch": "https://distrowatch.com/table.php?distribution=4mlinux"}, {"Distribution": "Absolute Linux", "Home Page": "https://www.absolutelinux.org/", "OS Type:": "Linux", "Based on:": "Slackware", "Origin:": "USA", "Distro Watch": "https://distrowatch.com/table.php?distribution=absolute"}, {"Distribution": "Accessible-Coconut", "Home Page": "https://zendalona.com/accessible-coconut/", "OS Type:": "Linux", "Based on:": "Debian", "Origin:": "India", "Distro Watch": "https://distrowatch.com/table.php?distribution=ac"}, {"Distribution": "AlmaLinux OS", "Home Page": "https://almalinux.org/", "OS Type:": "Linux", "Based on:": "Fedora", "Origin:": "USA", "Distro Watch": "https://distrowatch.com/table.php?distribution=alma"}, {"Distribution": "Alpine Linux", "Home Page": "https://www.alpinelinux.org/", "OS Type:": "Linux", "Based on:": null, "Origin:": "Norway", "Distro Watch": "https://distrowatch.com/table.php?distribution=alpine"}, {"Distribution": "ALT Linux", "Home Page": "https://en.altlinux.org/", "OS Type:": "Linux", "Based on:": "Mandrake", "Origin:": "Russia", "Distro Watch": "https://distrowatch.com/table.php?distribution=alt"}, {"Distribution": "antiX", "Home Page": "https://antixlinux.com/", "OS Type:": "Linux", "Based on:": "Debian (Stable)", "Origin:": "Greece", "Distro Watch": "https://distrowatch.com/table.php?distribution=antix"}, {"Distribution": "Arch Linux", "Home Page": "http://www.archlinux.org/", "OS Type:": "Linux", "Based on:": null, "Origin:": "Canada", "Distro Watch": "https://distrowatch.com/table.php?distribution=arch"}, {"Distribution": "ArchBang Linux", "Home Page": "https://archbang.org/", "OS Type:": "Linux", "Based on:": "Arch", "Origin:": "Canada", "Distro Watch": "https://distrowatch.com/table.php?distribution=archbang"}, {"Distribution": "Archcraft", "Home Page": "https://archcraft.io/", "OS Type:": "Linux", "Based on:": "Arch", "Origin:": "India", "Distro Watch": "https://distrowatch.com/table.php?distribution=archcraft"}, {"Distribution": "Archman GNU/Linux", "Home Page": "https://archman.org/", "OS Type:": "Linux", "Based on:": "Arch", "Origin:": "Turkey", "Distro Watch": "https://distrowatch.com/table.php?distribution=archman"}, {"Distribution": "ArcoLinux", "Home Page": "https://arcolinux.info/", "OS Type:": "Linux", "Based on:": "Arch", "Origin:": "Belgium", "Distro Watch": "https://distrowatch.com/table.php?distribution=arco"}, {"Distribution": "Armbian", "Home Page": "https://www.armbian.com/", "OS Type:": "Linux", "Based on:": "Debian", "Origin:": "Slovenia", "Distro Watch": "https://distrowatch.com/table.php?distribution=armbian"}, {"Distribution": "Artix Linux", "Home Page": "https://artixlinux.org/", "OS Type:": "Linux", "Based on:": "Arch", "Origin:": "Global", "Distro Watch": "https://distrowatch.com/table.php?distribution=artix"}, {"Distribution": "Athena OS", "Home Page": "https://athenaos.org/", "OS Type:": "Linux", "Based on:": "Arch", "Origin:": "Switzerland", "Distro Watch": "https://distrowatch.com/table.php?distribution=athena"}, {"Distribution": "AUSTRUMI", "Home Page": "http://cyti.latgola.lv/ruuni/", "OS Type:": "Linux", "Based on:": "Slackware", "Origin:": "Latvia", "Distro Watch": "https://distrowatch.com/table.php?distribution=austrumi"}, {"Distribution": "AV Linux", "Home Page": "https://www.bandshed.net/avlinux/", "OS Type:": "Linux", "Based on:": "Debian", "Origin:": "Canada", "Distro Watch": "https://distrowatch.com/table.php?distribution=avlinux"}, {"Distribution": "BackBox Linux", "Home Page": "https://www.backbox.org/", "OS Type:": "Linux", "Based on:": "Debian", "Origin:": "Italy", "Distro Watch": "https://distrowatch.com/table.php?distribution=backbox"}, {"Distribution": "Baruwa Enterprise Edition", "Home Page": "https://www.baruwa.com/", "OS Type:": "Linux", "Based on:": "Fedora", "Origin:": "South Africa", "Distro Watch": "https://distrowatch.com/table.php?distribution=baruwa"}, {"Distribution": "batocera.linux", "Home Page": "https://batocera.org/", "OS Type:": "Linux", "Based on:": null, "Origin:": "France", "Distro Watch": "https://distrowatch.com/table.php?distribution=batocera"}, {"Distribution": "Bedrock Linux", "Home Page": "https://bedrocklinux.org/", "OS Type:": "Linux", "Based on:": null, "Origin:": "USA", "Distro Watch": "https://distrowatch.com/table.php?distribution=bedrock"}, {"Distribution": "Berry Linux", "Home Page": "http://berry-lab.net/berry.html", "OS Type:": "Linux", "Based on:": "Fedora", "Origin:": "Japan", "Distro Watch": "https://distrowatch.com/table.php?distribution=berry"}, {"Distribution": "Bicom PBXware", "Home Page": "http://www.bicomsystems.com/products/pbxware/", "OS Type:": "Linux", "Based on:": "Gentoo", "Origin:": "France", "Distro Watch": "https://distrowatch.com/table.php?distribution=bicom"}, {"Distribution": "BigLinux (formerly Big Linux, before BIG Linux))", "Home Page": "https://www.biglinux.com.br/", "OS Type:": "Linux", "Based on:": "Manjaro", "Origin:": "Brazil", "Distro Watch": "https://distrowatch.com/table.php?distribution=biglinux"}, {"Distribution": "BlackArch Linux", "Home Page": "http://blackarch.org/", "OS Type:": "Linux", "Based on:": "Arch", "Origin:": "USA", "Distro Watch": "https://distrowatch.com/table.php?distribution=blackarch"}, {"Distribution": "blendOS", "Home Page": "https://blendos.co/", "OS Type:": "Linux", "Based on:": "Arch Linux", "Origin:": "India", "Distro Watch": "https://distrowatch.com/table.php?distribution=blendos"}, {"Distribution": "BlueOnyx", "Home Page": "https://www.blueonyx.it/", "OS Type:": "Linux", "Based on:": "CentOS", "Origin:": "Italy", "Distro Watch": "https://distrowatch.com/table.php?distribution=blueonyx"}, {"Distribution": "Bluestar Linux", "Home Page": "https://sourceforge.net/projects/bluestarlinux/", "OS Type:": "Linux", "Based on:": "Arch", "Origin:": "Germany", "Distro Watch": "https://distrowatch.com/table.php?distribution=bluestar"}, {"Distribution": "Bodhi Linux", "Home Page": "https://www.bodhilinux.com/", "OS Type:": "Linux", "Based on:": "Debian", "Origin:": "USA", "Distro Watch": "https://distrowatch.com/table.php?distribution=bodhi"}, {"Distribution": "Br OS", "Home Page": "https://br-os.com/", "OS Type:": "Linux", "Based on:": "Debian", "Origin:": "Brazil", "Distro Watch": "https://distrowatch.com/table.php?distribution=bros"}, {"Distribution": "BSD Router Project", "Home Page": "http://bsdrp.net/", "OS Type:": "BSD", "Based on:": "FreeBSD", "Origin:": "France", "Distro Watch": "https://distrowatch.com/table.php?distribution=bsdrp"}, {"Distribution": "BunsenLabs Linux", "Home Page": "https://www.bunsenlabs.org/", "OS Type:": "Linux", "Based on:": "Debian (Stable)", "Origin:": "Global", "Distro Watch": "https://distrowatch.com/table.php?distribution=bunsenlabs"}, {"Distribution": "CachyOS", "Home Page": "https://cachyos.org/", "OS Type:": "Linux", "Based on:": "Arch", "Origin:": "Germany", "Distro Watch": "https://distrowatch.com/table.php?distribution=cachyos"}, {"Distribution": "CAINE (Computer Aided INvestigative Environment)", "Home Page": "https://www.caine-live.net/", "OS Type:": "Linux", "Based on:": "Debian", "Origin:": "Italy", "Distro Watch": "https://distrowatch.com/table.php?distribution=caine"}, {"Distribution": "Calculate Linux", "Home Page": "https://www.calculate-linux.org/", "OS Type:": "Linux", "Based on:": "Gentoo", "Origin:": "Russia", "Distro Watch": "https://distrowatch.com/table.php?distribution=calculate"}, {"Distribution": "Canaima GNU/Linux", "Home Page": "http://canaima.softwarelibre.gob.ve/", "OS Type:": "Linux", "Based on:": "Debian (Stable)", "Origin:": "Venezuela", "Distro Watch": "https://distrowatch.com/table.php?distribution=canaima"}, {"Distribution": "CentOS", "Home Page": "https://www.centos.org/", "OS Type:": "Linux", "Based on:": "Fedora", "Origin:": "USA", "Distro Watch": "https://distrowatch.com/table.php?distribution=centos"}, {"Distribution": "Clear Linux", "Home Page": "https://clearlinux.org/", "OS Type:": "Linux", "Based on:": null, "Origin:": "USA", "Distro Watch": "https://distrowatch.com/table.php?distribution=clear"}, {"Distribution": "Clonezilla Live", "Home Page": "https://clonezilla.org/", "OS Type:": "Linux", "Based on:": "Debian (Unstable)", "Origin:": "Taiwan", "Distro Watch": "https://distrowatch.com/table.php?distribution=clonezilla"}, {"Distribution": "Commodore OS Vision", "Home Page": "https://www.commodoreusa.net/", "OS Type:": "Linux", "Based on:": "Debian", "Origin:": "USA", "Distro Watch": "https://distrowatch.com/table.php?distribution=commodore"}, {"Distribution": "CROWZ", "Home Page": "https://sourceforge.net/projects/crowz/", "OS Type:": "Linux", "Based on:": "Devuan", "Origin:": "USA", "Distro Watch": "https://distrowatch.com/table.php?distribution=crowz"}, {"Distribution": "Crunchbangplusplus", "Home Page": "https://www.crunchbangplusplus.org/", "OS Type:": "Linux", "Based on:": "Debian (Stable)", "Origin:": "USA", "Distro Watch": "https://distrowatch.com/table.php?distribution=cbpp"}, {"Distribution": "CRUX", "Home Page": "https://crux.nu/", "OS Type:": "Linux", "Based on:": null, "Origin:": "Sweden", "Distro Watch": "https://distrowatch.com/table.php?distribution=crux"}, {"Distribution": "Damn Small Linux", "Home Page": "https://www.damnsmalllinux.org/", "OS Type:": "Linux", "Based on:": "Debian", "Origin:": "USA", "Distro Watch": "https://distrowatch.com/table.php?distribution=damnsmall"}, {"Distribution": "Daphile", "Home Page": "https://www.daphile.com/", "OS Type:": "Linux", "Based on:": "Gentoo", "Origin:": "Finland", "Distro Watch": "https://distrowatch.com/table.php?distribution=daphile"}, {"Distribution": "Debian (formerly Debian GNU/Linux)", "Home Page": "https://www.debian.org/", "OS Type:": "Linux", "Based on:": null, "Origin:": "Global", "Distro Watch": "https://distrowatch.com/table.php?distribution=debian"}, {"Distribution": "Debian Edu/Skolelinux", "Home Page": "http://www.skolelinux.org/", "OS Type:": "Linux", "Based on:": "Debian (Stable)", "Origin:": "Norway", "Distro Watch": "https://distrowatch.com/table.php?distribution=skolelinux"}, {"Distribution": "deepin (formerly Deepin, before Linux Deepin, Hiweed GNU/Linux)", "Home Page": "https://deepin.org/", "OS Type:": "Linux", "Based on:": "Debian", "Origin:": "China", "Distro Watch": "https://distrowatch.com/table.php?distribution=deepin"}, {"Distribution": "Devuan GNU+Linux", "Home Page": "https://devuan.org/", "OS Type:": "Linux", "Based on:": "Debian", "Origin:": "Global", "Distro Watch": "https://distrowatch.com/table.php?distribution=devuan"}, {"Distribution": "Diamond Linux-TT", "Home Page": "https://www.linux-tt.com/", "OS Type:": "Linux", "Based on:": "Debian", "Origin:": "Germany", "Distro Watch": "https://distrowatch.com/table.php?distribution=diamond"}, {"Distribution": "DietPi", "Home Page": "https://dietpi.com/", "OS Type:": "Linux", "Based on:": "Debian", "Origin:": "United Kingdom", "Distro Watch": "https://distrowatch.com/table.php?distribution=dietpi"}, {"Distribution": "Dr.Parted Live", "Home Page": "https://dr-parted-live.sourceforge.io/", "OS Type:": "Linux", "Based on:": "Debian", "Origin:": "Global", "Distro Watch": "https://distrowatch.com/table.php?distribution=drparted"}, {"Distribution": "DragonFly BSD", "Home Page": "http://www.dragonflybsd.org/", "OS Type:": "BSD", "Based on:": "FreeBSD", "Origin:": "USA", "Distro Watch": "https://distrowatch.com/table.php?distribution=dragonflybsd"}, {"Distribution": "Dragora GNU/Linux-Libre (formerly Dragora GNU/Linux)", "Home Page": "http://www.dragora.org/", "OS Type:": "Linux", "Based on:": null, "Origin:": "Argentina", "Distro Watch": "https://distrowatch.com/table.php?distribution=dragora"}, {"Distribution": "Dynebolic (also spelt as dynebolic, Dyne:bolic or dyne:bolic)", "Home Page": "https://dynebolic.org", "OS Type:": "Linux", "Based on:": "Devuan", "Origin:": "Italy", "Distro Watch": "https://distrowatch.com/table.php?distribution=dynebolic"}, {"Distribution": "DynFi Firewall", "Home Page": "https://dynfi.com/en/dynfi-firewall/", "OS Type:": "BSD", "Based on:": "FreeBSD", "Origin:": "France", "Distro Watch": "https://distrowatch.com/table.php?distribution=dynfi"}, {"Distribution": "EasyNAS", "Home Page": "https://www.easynas.org/", "OS Type:": "Linux", "Based on:": "openSUSE", "Origin:": "Israel", "Distro Watch": "https://distrowatch.com/table.php?distribution=easynas"}, {"Distribution": "EasyOS", "Home Page": "https://easyos.org/", "OS Type:": "Linux", "Based on:": null, "Origin:": "Australia", "Distro Watch": "https://distrowatch.com/table.php?distribution=easyos"}, {"Distribution": "Edubuntu", "Home Page": "https://www.edubuntu.org/", "OS Type:": "Linux", "Based on:": "Debian", "Origin:": "Isle of Man", "Distro Watch": "https://distrowatch.com/table.php?distribution=edubuntu"}, {"Distribution": "eLearnix (also known as FreeLoader Linux)", "Home Page": "http://freehumanity.live/", "OS Type:": "Linux", "Based on:": "Debian", "Origin:": "Canada", "Distro Watch": "https://distrowatch.com/table.php?distribution=elearnix"}, {"Distribution": "elementary OS", "Home Page": "https://elementary.io/", "OS Type:": "Linux", "Based on:": "Debian", "Origin:": "USA", "Distro Watch": "https://distrowatch.com/table.php?distribution=elementary"}, {"Distribution": "Elive", "Home Page": "https://www.elivecd.org/", "OS Type:": "Linux", "Based on:": "Debian (Stable)", "Origin:": "Belgium", "Distro Watch": "https://distrowatch.com/table.php?distribution=elive"}, {"Distribution": "Emmabunt\u00fcs", "Home Page": "https://emmabuntus.org/", "OS Type:": "Linux", "Based on:": "Debian (Stable)", "Origin:": "France", "Distro Watch": "https://distrowatch.com/table.php?distribution=emmabuntus"}, {"Distribution": "EndeavourOS", "Home Page": "https://endeavouros.com/", "OS Type:": "Linux", "Based on:": "Arch", "Origin:": "Netherlands", "Distro Watch": "https://distrowatch.com/table.php?distribution=endeavour"}, {"Distribution": "Endian Firewall", "Home Page": "https://www.endian.com/community/", "OS Type:": "Linux", "Based on:": "Red Hat", "Origin:": "Italy", "Distro Watch": "https://distrowatch.com/table.php?distribution=endian"}, {"Distribution": "Endless OS", "Home Page": "https://endlessos.com/", "OS Type:": "Linux", "Based on:": "Debian (Stable)", "Origin:": "USA", "Distro Watch": "https://distrowatch.com/table.php?distribution=endless"}, {"Distribution": "EuroLinux", "Home Page": "https://en.euro-linux.com/eurolinux/", "OS Type:": "Linux", "Based on:": "Red Hat", "Origin:": "Poland", "Distro Watch": "https://distrowatch.com/table.php?distribution=eurolinux"}, {"Distribution": "Exe GNU/Linux", "Home Page": "http://exegnulinux.net/", "OS Type:": "Linux", "Based on:": "Debian (Stable)", "Origin:": "United Kingdom", "Distro Watch": "https://distrowatch.com/table.php?distribution=exe"}, {"Distribution": "Exherbo Linux", "Home Page": "http://exherbo.org/", "OS Type:": "Linux", "Based on:": null, "Origin:": "Denmark", "Distro Watch": "https://distrowatch.com/table.php?distribution=exherbo"}, {"Distribution": "ExTiX", "Home Page": "https://www.extix.se/", "OS Type:": "Linux", "Based on:": "Debian", "Origin:": "Sweden", "Distro Watch": "https://distrowatch.com/table.php?distribution=extix"}, {"Distribution": "Fatdog64 Linux", "Home Page": "https://distro.ibiblio.org/fatdog/web/", "OS Type:": "Linux", "Based on:": "LFS (formerly based on Puppy)", "Origin:": "USA", "Distro Watch": "https://distrowatch.com/table.php?distribution=fatdog"}, {"Distribution": "Fedora Linux", "Home Page": "https://getfedora.org/", "OS Type:": "Linux", "Based on:": null, "Origin:": "USA", "Distro Watch": "https://distrowatch.com/table.php?distribution=fedora"}, {"Distribution": "Feren OS (formerly feren OS)", "Home Page": "http://ferenos.weebly.com/", "OS Type:": "Linux", "Based on:": "Debian", "Origin:": "United Kingdom", "Distro Watch": "https://distrowatch.com/table.php?distribution=ferenos"}, {"Distribution": "Finnix", "Home Page": "https://www.finnix.org/", "OS Type:": "Linux", "Based on:": "Debian (Testing)", "Origin:": "USA", "Distro Watch": "https://distrowatch.com/table.php?distribution=finnix"}, {"Distribution": "FreeBSD", "Home Page": "https://www.freebsd.org/", "OS Type:": "BSD", "Based on:": null, "Origin:": "USA", "Distro Watch": "https://distrowatch.com/table.php?distribution=freebsd"}, {"Distribution": "FreedomBox", "Home Page": "https://freedombox.org/", "OS Type:": "Linux", "Based on:": "Debian", "Origin:": "Global", "Distro Watch": "https://distrowatch.com/table.php?distribution=freedombox"}, {"Distribution": "Freespire", "Home Page": "https://www.freespire.net/", "OS Type:": "Linux", "Based on:": "Debian", "Origin:": "USA", "Distro Watch": "https://distrowatch.com/table.php?distribution=freespire"}, {"Distribution": "FuguIta", "Home Page": "https://fuguita.org/", "OS Type:": "BSD", "Based on:": "OpenBSD", "Origin:": "Japan", "Distro Watch": "https://distrowatch.com/table.php?distribution=fuguita"}, {"Distribution": "Garuda Linux", "Home Page": "https://garudalinux.org/", "OS Type:": "Linux", "Based on:": "Arch", "Origin:": "India", "Distro Watch": "https://distrowatch.com/table.php?distribution=garuda"}, {"Distribution": "GeckoLinux", "Home Page": "https://geckolinux.github.io/", "OS Type:": "Linux", "Based on:": "openSUSE", "Origin:": "USA", "Distro Watch": "https://distrowatch.com/table.php?distribution=gecko"}, {"Distribution": "Gentoo Linux", "Home Page": "https://www.gentoo.org/", "OS Type:": "Linux", "Based on:": null, "Origin:": "USA", "Distro Watch": "https://distrowatch.com/table.php?distribution=gentoo"}, {"Distribution": "GhostBSD", "Home Page": "https://www.ghostbsd.org/", "OS Type:": "BSD", "Based on:": "FreeBSD", "Origin:": "Canada", "Distro Watch": "https://distrowatch.com/table.php?distribution=ghostbsd"}, {"Distribution": "Gnoppix", "Home Page": "https://www.gnoppix.com/", "OS Type:": "Linux", "Based on:": "Debian", "Origin:": "Germany", "Distro Watch": "https://distrowatch.com/table.php?distribution=gnoppix"}, {"Distribution": "GParted Live", "Home Page": "https://gparted.org/livecd.php", "OS Type:": "Linux", "Based on:": "Debian", "Origin:": "USA", "Distro Watch": "https://distrowatch.com/table.php?distribution=gparted"}, {"Distribution": "Grml", "Home Page": "https://www.grml.org/", "OS Type:": "Linux", "Based on:": "Debian (Testing)", "Origin:": "Austria", "Distro Watch": "https://distrowatch.com/table.php?distribution=grml"}, {"Distribution": "Guix System (previously GuixSD)", "Home Page": "https://www.gnu.org/software/guix/", "OS Type:": "Linux", "Based on:": null, "Origin:": "France", "Distro Watch": "https://distrowatch.com/table.php?distribution=guixsd"}, {"Distribution": "Haiku", "Home Page": "https://haiku-os.org/", "OS Type:": "Other OS", "Based on:": null, "Origin:": "USA", "Distro Watch": "https://distrowatch.com/table.php?distribution=haiku"}, {"Distribution": "HamoniKR", "Home Page": "https://hamonikr.org/", "OS Type:": "Linux", "Based on:": "Debian", "Origin:": "South Korea", "Distro Watch": "https://distrowatch.com/table.php?distribution=hamonikr"}, {"Distribution": "HardenedBSD", "Home Page": "https://hardenedbsd.org/", "OS Type:": "BSD", "Based on:": "FreeBSD", "Origin:": "USA", "Distro Watch": "https://distrowatch.com/table.php?distribution=hardenedbsd"}, {"Distribution": "helloSystem", "Home Page": "https://github.com/helloSystem/hello", "OS Type:": "BSD", "Based on:": "FreeBSD", "Origin:": "Global", "Distro Watch": "https://distrowatch.com/table.php?distribution=hellosystem"}, {"Distribution": "Hyperbola GNU/Linux-libre", "Home Page": "https://www.hyperbola.info/", "OS Type:": "Linux", "Based on:": null, "Origin:": "Brazil", "Distro Watch": "https://distrowatch.com/table.php?distribution=hyperbola"}, {"Distribution": "IPFire", "Home Page": "https://www.ipfire.org/", "OS Type:": "Linux", "Based on:": "IPCop", "Origin:": "Germany", "Distro Watch": "https://distrowatch.com/table.php?distribution=ipfire"}, {"Distribution": "Kaisen Linux", "Home Page": "https://kaisenlinux.org/", "OS Type:": "Linux", "Based on:": "Debian", "Origin:": "France", "Distro Watch": "https://distrowatch.com/table.php?distribution=kaisen"}, {"Distribution": "Kali Linux (formerly BackTrack)", "Home Page": "https://www.kali.org/", "OS Type:": "Linux", "Based on:": "Debian (Testing)", "Origin:": "Gibraltar", "Distro Watch": "https://distrowatch.com/table.php?distribution=kali"}, {"Distribution": "KANOTIX", "Home Page": "http://kanotix.com/", "OS Type:": "Linux", "Based on:": "Debian (Stable)", "Origin:": "Germany", "Distro Watch": "https://distrowatch.com/table.php?distribution=kanotix"}, {"Distribution": "KaOS", "Home Page": "https://kaosx.us/", "OS Type:": "Linux", "Based on:": null, "Origin:": "USA", "Distro Watch": "https://distrowatch.com/table.php?distribution=kaos"}, {"Distribution": "KDE neon", "Home Page": "https://neon.kde.org/", "OS Type:": "Linux", "Based on:": "Debian", "Origin:": "United Kingdom", "Distro Watch": "https://distrowatch.com/table.php?distribution=kdeneon"}, {"Distribution": "Linux Kodachi", "Home Page": "https://www.digi77.com/linux-kodachi/", "OS Type:": "Linux", "Based on:": "Debian", "Origin:": "Oman", "Distro Watch": "https://distrowatch.com/table.php?distribution=kodachi"}, {"Distribution": "KolibriOS", "Home Page": "http://kolibrios.org/", "OS Type:": "Other OS", "Based on:": null, "Origin:": "Russia", "Distro Watch": "https://distrowatch.com/table.php?distribution=kolibri"}, {"Distribution": "Kubuntu", "Home Page": "https://kubuntu.org/", "OS Type:": "Linux", "Based on:": "Debian", "Origin:": "Isle of Man", "Distro Watch": "https://distrowatch.com/table.php?distribution=kubuntu"}, {"Distribution": "Kumander Linux", "Home Page": "https://www.kumander.org/", "OS Type:": "Linux", "Based on:": "Debian", "Origin:": "Philippines", "Distro Watch": "https://distrowatch.com/table.php?distribution=kumander"}, {"Distribution": "Kwort Linux", "Home Page": "https://kwort.org/", "OS Type:": "Linux", "Based on:": "CRUX", "Origin:": "Argentina", "Distro Watch": "https://distrowatch.com/table.php?distribution=kwort"}, {"Distribution": "Lakka", "Home Page": "http://www.lakka.tv/", "OS Type:": "Linux", "Based on:": "LibreELEC", "Origin:": "France", "Distro Watch": "https://distrowatch.com/table.php?distribution=lakka"}, {"Distribution": "Legacy OS (formerly TEENpup Linux)", "Home Page": "https://legacyoslinux.net/", "OS Type:": "Linux", "Based on:": "Debian", "Origin:": "Australia", "Distro Watch": "https://distrowatch.com/table.php?distribution=legacy"}, {"Distribution": "Lernstick", "Home Page": "https://www.lernstick.ch/", "OS Type:": "Linux", "Based on:": "Debian", "Origin:": "Switzerland", "Distro Watch": "https://distrowatch.com/table.php?distribution=lernstick"}, {"Distribution": "Linux From Scratch", "Home Page": "http://www.linuxfromscratch.org", "OS Type:": "Linux", "Based on:": null, "Origin:": "Canada", "Distro Watch": "https://distrowatch.com/table.php?distribution=lfs"}, {"Distribution": "LibreELEC", "Home Page": "https://libreelec.tv/", "OS Type:": "Linux", "Based on:": "OpenELEC", "Origin:": "USA", "Distro Watch": "https://distrowatch.com/table.php?distribution=libreelec"}, {"Distribution": "Linspire OS", "Home Page": "http://www.linspirelinux.com/", "OS Type:": "Linux", "Based on:": "Debian", "Origin:": "USA", "Distro Watch": "https://distrowatch.com/table.php?distribution=linspire"}, {"Distribution": "Linux Schools (formerly Karoshi)", "Home Page": "https://www.linuxschools.com/", "OS Type:": "Linux", "Based on:": "Debian", "Origin:": "United Kingdom", "Distro Watch": "https://distrowatch.com/table.php?distribution=linuxschools"}, {"Distribution": "Linux Lite", "Home Page": "https://www.linuxliteos.com/", "OS Type:": "Linux", "Based on:": "Debian", "Origin:": "New Zealand", "Distro Watch": "https://distrowatch.com/table.php?distribution=lite"}, {"Distribution": "Live Raizo", "Home Page": "https://sourceforge.net/projects/live-raizo/", "OS Type:": "Linux", "Based on:": "Debian", "Origin:": "France", "Distro Watch": "https://distrowatch.com/table.php?distribution=liveraizo"}, {"Distribution": "Liya", "Home Page": "https://liyalinux.gitlab.io/", "OS Type:": "Linux", "Based on:": "Arch", "Origin:": "Global", "Distro Watch": "https://distrowatch.com/table.php?distribution=liya"}, {"Distribution": "LliureX", "Home Page": "http://www.lliurex.net/", "OS Type:": "Linux", "Based on:": "Debian", "Origin:": "Spain", "Distro Watch": "https://distrowatch.com/table.php?distribution=lliurex"}, {"Distribution": "Lubuntu", "Home Page": "https://lubuntu.me/", "OS Type:": "Linux", "Based on:": "Debian", "Origin:": "France, Taiwan", "Distro Watch": "https://distrowatch.com/table.php?distribution=lubuntu"}, {"Distribution": "LXLE", "Home Page": "http://www.lxle.net/", "OS Type:": "Linux", "Based on:": "Debian", "Origin:": "USA", "Distro Watch": "https://distrowatch.com/table.php?distribution=lxle"}, {"Distribution": "Mabox Linux", "Home Page": "https://maboxlinux.org/", "OS Type:": "Linux", "Based on:": "Manjaro", "Origin:": "Poland", "Distro Watch": "https://distrowatch.com/table.php?distribution=mabox"}, {"Distribution": "Mageia", "Home Page": "https://www.mageia.org/", "OS Type:": "Linux", "Based on:": null, "Origin:": "France", "Distro Watch": "https://distrowatch.com/table.php?distribution=mageia"}, {"Distribution": "mAid", "Home Page": "https://maid.binbash.rocks/", "OS Type:": "Linux", "Based on:": "Manjaro", "Origin:": "Germany", "Distro Watch": "https://distrowatch.com/table.php?distribution=maid"}, {"Distribution": "MakuluLinux", "Home Page": "https://www.makululinux.com/", "OS Type:": "Linux", "Based on:": "Debian (Testing)", "Origin:": "Vietnam", "Distro Watch": "https://distrowatch.com/table.php?distribution=makulu"}, {"Distribution": "Manjaro Linux", "Home Page": "https://manjaro.org/", "OS Type:": "Linux", "Based on:": "Arch", "Origin:": "Austria, France, Germany", "Distro Watch": "https://distrowatch.com/table.php?distribution=manjaro"}, {"Distribution": "MAX: Madrid_Linux", "Home Page": "https://www.educa2.madrid.org/web/max/inicio", "OS Type:": "Linux", "Based on:": "Debian", "Origin:": "Spain", "Distro Watch": "https://distrowatch.com/table.php?distribution=max"}, {"Distribution": "MidnightBSD", "Home Page": "https://www.midnightbsd.org/", "OS Type:": "BSD", "Based on:": "FreeBSD", "Origin:": "USA", "Distro Watch": "https://distrowatch.com/table.php?distribution=midnightbsd"}, {"Distribution": "Linux Mint", "Home Page": "https://linuxmint.com/", "OS Type:": "Linux", "Based on:": "Debian (Stable)", "Origin:": "Ireland", "Distro Watch": "https://distrowatch.com/table.php?distribution=mint"}, {"Distribution": "MIRACLE LINUX", "Home Page": "https://www.miraclelinux.com", "OS Type:": "Linux", "Based on:": "Red Hat", "Origin:": "Japan", "Distro Watch": "https://distrowatch.com/table.php?distribution=miracle"}, {"Distribution": "Murena", "Home Page": "https://murena.com/", "OS Type:": "Linux", "Based on:": "LineageOS", "Origin:": "France", "Distro Watch": "https://distrowatch.com/table.php?distribution=murena"}, {"Distribution": "MX Linux", "Home Page": "https://mxlinux.org/", "OS Type:": "Linux", "Based on:": "Debian (Stable)", "Origin:": "Greece, USA", "Distro Watch": "https://distrowatch.com/table.php?distribution=mx"}, {"Distribution": "Navy Linux", "Home Page": "https://navylinux.org/", "OS Type:": "Linux", "Based on:": "Fedora", "Origin:": "Bahamas", "Distro Watch": "https://distrowatch.com/table.php?distribution=navy"}, {"Distribution": "Neptune", "Home Page": "https://neptuneos.com/", "OS Type:": "Linux", "Based on:": "Debian (Stable)", "Origin:": "Germany", "Distro Watch": "https://distrowatch.com/table.php?distribution=neptune"}, {"Distribution": "NetBSD", "Home Page": "https://www.netbsd.org/", "OS Type:": "BSD", "Based on:": null, "Origin:": "USA", "Distro Watch": "https://distrowatch.com/table.php?distribution=netbsd"}, {"Distribution": "NethSecurity", "Home Page": "https://nethsecurity.org/", "OS Type:": "Linux", "Based on:": "NethServer", "Origin:": "Italy", "Distro Watch": "https://distrowatch.com/table.php?distribution=nethsecurity"}, {"Distribution": "Netrunner", "Home Page": "http://www.netrunner.com/", "OS Type:": "Linux", "Based on:": "Debian (Stable)", "Origin:": "Germany", "Distro Watch": "https://distrowatch.com/table.php?distribution=netrunner"}, {"Distribution": "NexentaStor", "Home Page": "https://nexenta.com/products/nexentastor", "OS Type:": "Solaris", "Based on:": "Solaris", "Origin:": "USA", "Distro Watch": "https://distrowatch.com/table.php?distribution=nexentastor"}, {"Distribution": "Nitrux", "Home Page": "https://nxos.org/", "OS Type:": "Linux", "Based on:": "Debian", "Origin:": "Mexico", "Distro Watch": "https://distrowatch.com/table.php?distribution=nitrux"}, {"Distribution": "NixOS", "Home Page": "https://nixos.org/", "OS Type:": "Linux", "Based on:": null, "Origin:": "Netherlands", "Distro Watch": "https://distrowatch.com/table.php?distribution=nixos"}, {"Distribution": "Nobara Project", "Home Page": "https://nobaraproject.org/", "OS Type:": "Linux", "Based on:": "Fedora", "Origin:": "USA", "Distro Watch": "https://distrowatch.com/table.php?distribution=nobara"}, {"Distribution": "NomadBSD", "Home Page": "https://nomadbsd.org/", "OS Type:": "BSD", "Based on:": "FreeBSD", "Origin:": "Germany", "Distro Watch": "https://distrowatch.com/table.php?distribution=nomadbsd"}, {"Distribution": "Nova", "Home Page": "https://www.nova.cu/", "OS Type:": "Linux", "Based on:": "Debian", "Origin:": "Cuba", "Distro Watch": "https://distrowatch.com/table.php?distribution=nova"}, {"Distribution": "Network Security Toolkit (NST)", "Home Page": "https://www.networksecuritytoolkit.org/", "OS Type:": "Linux", "Based on:": "Fedora", "Origin:": "USA", "Distro Watch": "https://distrowatch.com/table.php?distribution=nst"}, {"Distribution": "NuTyX", "Home Page": "https://www.nutyx.org/", "OS Type:": "Linux", "Based on:": "LFS", "Origin:": "Switzerland", "Distro Watch": "https://distrowatch.com/table.php?distribution=nutyx"}, {"Distribution": "OB2D Linux (formerly B2D Linux)", "Home Page": "http://b2d-linux.com/", "OS Type:": "Linux", "Based on:": "Debian (Testing)", "Origin:": "Taiwan", "Distro Watch": "https://distrowatch.com/table.php?distribution=ob2d"}, {"Distribution": "Obarun", "Home Page": "https://web.obarun.org/", "OS Type:": "Linux", "Based on:": "Arch", "Origin:": "Switzerland", "Distro Watch": "https://distrowatch.com/table.php?distribution=obarun"}, {"Distribution": "ARMA (Omoikane GNU/Linux)", "Home Page": "http://www.omoikane.co.jp", "OS Type:": "Linux", "Based on:": "Debian", "Origin:": "Japan", "Distro Watch": "https://distrowatch.com/table.php?distribution=omoikane"}, {"Distribution": "OpenBSD", "Home Page": "https://www.openbsd.org/", "OS Type:": "BSD", "Based on:": null, "Origin:": "Canada", "Distro Watch": "https://distrowatch.com/table.php?distribution=openbsd"}, {"Distribution": "OpenIndiana", "Home Page": "https://openindiana.org/", "OS Type:": "Solaris", "Based on:": "Solaris", "Origin:": "United Kingdom", "Distro Watch": "https://distrowatch.com/table.php?distribution=openindiana"}, {"Distribution": "openKylin", "Home Page": "https://www.openkylin.top/", "OS Type:": "Linux", "Based on:": "Debian", "Origin:": "China", "Distro Watch": "https://distrowatch.com/table.php?distribution=openkylin"}, {"Distribution": "openmamba GNU/Linux", "Home Page": "https://openmamba.org/", "OS Type:": "Linux", "Based on:": null, "Origin:": "Italy", "Distro Watch": "https://distrowatch.com/table.php?distribution=openmamba"}, {"Distribution": "OpenMandriva Lx", "Home Page": "https://www.openmandriva.org/", "OS Type:": "Linux", "Based on:": null, "Origin:": "France", "Distro Watch": "https://distrowatch.com/table.php?distribution=openmandriva"}, {"Distribution": "OpenMediaVault", "Home Page": "https://www.openmediavault.org/", "OS Type:": "Linux", "Based on:": "Debian", "Origin:": "Germany", "Distro Watch": "https://distrowatch.com/table.php?distribution=openmediavault"}, {"Distribution": "openSUSE (formerly SUSE Linux)", "Home Page": "https://www.opensuse.org/", "OS Type:": "Linux", "Based on:": null, "Origin:": "Germany", "Distro Watch": "https://distrowatch.com/table.php?distribution=opensuse"}, {"Distribution": "OPNsense", "Home Page": "https://opnsense.org/", "OS Type:": "BSD", "Based on:": "FreeBSD", "Origin:": "Netherlands", "Distro Watch": "https://distrowatch.com/table.php?distribution=opnsense"}, {"Distribution": "Oracle Linux", "Home Page": "https://www.oracle.com/linux/", "OS Type:": "Linux", "Based on:": "Red Hat", "Origin:": "USA", "Distro Watch": "https://distrowatch.com/table.php?distribution=oracle"}, {"Distribution": "OSGeoLive (formerly OSGeo-Live)", "Home Page": "https://live.osgeo.org/", "OS Type:": "Linux", "Based on:": "Debian", "Origin:": "USA", "Distro Watch": "https://distrowatch.com/table.php?distribution=osgeo"}, {"Distribution": "OSMC (formerly Raspbmc)", "Home Page": "https://osmc.tv/", "OS Type:": "Linux", "Based on:": "Debian (Stable)", "Origin:": "United Kingdom", "Distro Watch": "https://distrowatch.com/table.php?distribution=osmc"}, {"Distribution": "OviOS Linux", "Home Page": "https://www.ovios.org/", "OS Type:": "Linux", "Based on:": null, "Origin:": "Canada", "Distro Watch": "https://distrowatch.com/table.php?distribution=ovios"}, {"Distribution": "PakOS", "Home Page": "https://sourceforge.net/projects/pakos/", "OS Type:": "Linux", "Based on:": "Debian", "Origin:": "Pakistan", "Distro Watch": "https://distrowatch.com/table.php?distribution=pakos"}, {"Distribution": "paldo GNU/Linux", "Home Page": "http://www.paldo.org/", "OS Type:": "Linux", "Based on:": null, "Origin:": "Switzerland", "Distro Watch": "https://distrowatch.com/table.php?distribution=paldo"}, {"Distribution": "Parabola GNU/Linux-libre", "Home Page": "https://parabola.nu/", "OS Type:": "Linux", "Based on:": "Arch", "Origin:": "Chile", "Distro Watch": "https://distrowatch.com/table.php?distribution=parabola"}, {"Distribution": "Pardus", "Home Page": "https://www.pardus.org.tr/", "OS Type:": "Linux", "Based on:": "Debian", "Origin:": "Turkey", "Distro Watch": "https://distrowatch.com/table.php?distribution=pardus"}, {"Distribution": "Parrot (formerly Parrot Security OS)", "Home Page": "https://parrotsec.org/", "OS Type:": "Linux", "Based on:": "Debian", "Origin:": "Italy", "Distro Watch": "https://distrowatch.com/table.php?distribution=parrot"}, {"Distribution": "Parted Magic", "Home Page": "https://partedmagic.com/", "OS Type:": "Linux", "Based on:": "Slackware", "Origin:": "USA", "Distro Watch": "https://distrowatch.com/table.php?distribution=partedmagic"}, {"Distribution": "PCLinuxOS", "Home Page": "https://www.pclinuxos.com/", "OS Type:": "Linux", "Based on:": null, "Origin:": "USA", "Distro Watch": "https://distrowatch.com/table.php?distribution=pclinuxos"}, {"Distribution": "Pearl Linux OS", "Home Page": "https://www.pearllinux.net/", "OS Type:": "Linux", "Based on:": "Ubuntu", "Origin:": "USA", "Distro Watch": "https://distrowatch.com/table.php?distribution=pearl"}, {"Distribution": "Pentoo", "Home Page": "https://www.pentoo.ch/", "OS Type:": "Linux", "Based on:": "Gentoo", "Origin:": "Switzerland", "Distro Watch": "https://distrowatch.com/table.php?distribution=pentoo"}, {"Distribution": "Peppermint OS", "Home Page": "https://peppermintos.com/", "OS Type:": "Linux", "Based on:": "Debian (Stable)", "Origin:": "United Kingdom", "Distro Watch": "https://distrowatch.com/table.php?distribution=peppermint"}, {"Distribution": "Peropesis", "Home Page": "https://peropesis.org/", "OS Type:": "Linux", "Based on:": null, "Origin:": "Lithuania", "Distro Watch": "https://distrowatch.com/table.php?distribution=peropesis"}, {"Distribution": "pfSense", "Home Page": "https://www.pfsense.org/", "OS Type:": "BSD", "Based on:": "FreeBSD", "Origin:": "USA", "Distro Watch": "https://distrowatch.com/table.php?distribution=pfsense"}, {"Distribution": "Photon OS", "Home Page": "https://vmware.github.io/photon/", "OS Type:": "Linux", "Based on:": null, "Origin:": "USA", "Distro Watch": "https://distrowatch.com/table.php?distribution=photonos"}, {"Distribution": "Pisi Linux", "Home Page": "https://www.pisilinux.org/", "OS Type:": "Linux", "Based on:": null, "Origin:": "Turkey", "Distro Watch": "https://distrowatch.com/table.php?distribution=pisi"}, {"Distribution": "Plamo Linux", "Home Page": "https://www.plamolinux.org/", "OS Type:": "Linux", "Based on:": "Slackware", "Origin:": "Japan", "Distro Watch": "https://distrowatch.com/table.php?distribution=plamo"}, {"Distribution": "PLD Linux Distribution", "Home Page": "http://pld-linux.org/", "OS Type:": "Linux", "Based on:": null, "Origin:": "Poland", "Distro Watch": "https://distrowatch.com/table.php?distribution=pld"}, {"Distribution": "Plop Linux", "Home Page": "https://www.plop.at/", "OS Type:": "Linux", "Based on:": null, "Origin:": "Austria", "Distro Watch": "https://distrowatch.com/table.php?distribution=plop"}, {"Distribution": "Pop!_OS", "Home Page": "https://system76.com/pop", "OS Type:": "Linux", "Based on:": "Ubuntu", "Origin:": "USA", "Distro Watch": "https://distrowatch.com/table.php?distribution=popos"}, {"Distribution": "Porteus", "Home Page": "http://www.porteus.org/", "OS Type:": "Linux", "Based on:": "Slackware", "Origin:": "Ireland", "Distro Watch": "https://distrowatch.com/table.php?distribution=porteus"}, {"Distribution": "Porteus Kiosk", "Home Page": "http://porteus-kiosk.org/", "OS Type:": "Linux", "Based on:": "Gentoo", "Origin:": "Ireland", "Distro Watch": "https://distrowatch.com/table.php?distribution=porteuskiosk"}, {"Distribution": "PorteuX", "Home Page": "https://github.com/porteux/porteux/", "OS Type:": "Linux", "Based on:": "Slackware", "Origin:": "Global", "Distro Watch": "https://distrowatch.com/table.php?distribution=porteux"}, {"Distribution": "postmarketOS", "Home Page": "https://postmarketos.org/", "OS Type:": "Linux", "Based on:": "Alpine", "Origin:": "Netherlands", "Distro Watch": "https://distrowatch.com/table.php?distribution=postmarketos"}, {"Distribution": "PrimTux", "Home Page": "https://primtux.fr/", "OS Type:": "Linux", "Based on:": "Ubuntu", "Origin:": "France", "Distro Watch": "https://distrowatch.com/table.php?distribution=primtux"}, {"Distribution": "Proxmox", "Home Page": "https://www.proxmox.com/", "OS Type:": "Linux", "Based on:": "Debian (Stable)", "Origin:": "Austria", "Distro Watch": "https://distrowatch.com/table.php?distribution=proxmox"}, {"Distribution": "Puppy Linux", "Home Page": "https://puppylinux-woof-ce.github.io/", "OS Type:": "Linux", "Based on:": null, "Origin:": "Australia", "Distro Watch": "https://distrowatch.com/table.php?distribution=puppy"}, {"Distribution": "PureOS", "Home Page": "https://pureos.net/", "OS Type:": "Linux", "Based on:": "Debian", "Origin:": "France", "Distro Watch": "https://distrowatch.com/table.php?distribution=pureos"}, {"Distribution": "Q4OS", "Home Page": "https://q4os.org/", "OS Type:": "Linux", "Based on:": "Debian (Stable)", "Origin:": "Germany", "Distro Watch": "https://distrowatch.com/table.php?distribution=q4os"}, {"Distribution": "Qubes OS", "Home Page": "https://qubes-os.org/", "OS Type:": "Linux", "Based on:": "Debian", "Origin:": "Poland", "Distro Watch": "https://distrowatch.com/table.php?distribution=qubes"}, {"Distribution": "Raspberry Pi OS (formerly Raspbian)", "Home Page": "https://www.raspberrypi.com/software/", "OS Type:": "Linux", "Based on:": "Debian (Stable)", "Origin:": "United Kingdom", "Distro Watch": "https://distrowatch.com/table.php?distribution=raspios"}, {"Distribution": "Raspberry Digital Signage", "Home Page": "http://www.binaryemotions.com/digital-signage/raspberry-digital-signage/", "OS Type:": "Linux", "Based on:": "Raspbian", "Origin:": "Italy", "Distro Watch": "https://distrowatch.com/table.php?distribution=rds"}, {"Distribution": "ReactOS", "Home Page": "https://www.reactos.org/", "OS Type:": "Other OS", "Based on:": null, "Origin:": "Russia", "Distro Watch": "https://distrowatch.com/table.php?distribution=reactos"}, {"Distribution": "RebecaBlackOS", "Home Page": "https://sourceforge.net/projects/rebeccablackos/", "OS Type:": "Linux", "Based on:": "Debian", "Origin:": "USA", "Distro Watch": "https://distrowatch.com/table.php?distribution=rebeccablackos"}, {"Distribution": "RebornOS", "Home Page": "https://rebornos.org/", "OS Type:": "Linux", "Based on:": "Arch", "Origin:": "USA", "Distro Watch": "https://distrowatch.com/table.php?distribution=rebornos"}, {"Distribution": "Recalbox", "Home Page": "https://www.recalbox.com/", "OS Type:": "Linux", "Based on:": null, "Origin:": "Global", "Distro Watch": "https://distrowatch.com/table.php?distribution=recalbox"}, {"Distribution": "Red Hat (Enterprise) Linux", "Home Page": "http://www.redhat.com/", "OS Type:": "Linux", "Based on:": "Fedora", "Origin:": "USA", "Distro Watch": "https://distrowatch.com/table.php?distribution=redhat"}, {"Distribution": "Redcore Linux", "Home Page": "https://redcorelinux.org/", "OS Type:": "Linux", "Based on:": "Gentoo", "Origin:": "Romania", "Distro Watch": "https://distrowatch.com/table.php?distribution=redcore"}, {"Distribution": "Refracta", "Home Page": "https://refracta.org/", "OS Type:": "Linux", "Based on:": "Debian", "Origin:": "USA", "Distro Watch": "https://distrowatch.com/table.php?distribution=refracta"}, {"Distribution": "Regata OS", "Home Page": "https://www.regataos.com.br/", "OS Type:": "Linux", "Based on:": "openSUSE", "Origin:": "Brazil", "Distro Watch": "https://distrowatch.com/table.php?distribution=regata"}, {"Distribution": "RELIANOID", "Home Page": "https://www.relianoid.com/", "OS Type:": "Linux", "Based on:": "Debian", "Origin:": "USA", "Distro Watch": "https://distrowatch.com/table.php?distribution=relianoid"}, {"Distribution": "Rescuezilla", "Home Page": "https://rescuezilla.com/", "OS Type:": "Linux", "Based on:": "Debian", "Origin:": "Australia", "Distro Watch": "https://distrowatch.com/table.php?distribution=rescuezilla"}, {"Distribution": "Rhino Linux", "Home Page": "https://rhinolinux.org/", "OS Type:": "Linux", "Based on:": "Debian", "Origin:": "Global", "Distro Watch": "https://distrowatch.com/table.php?distribution=rhino"}, {"Distribution": "RISC OS (formerly RISC OS Open)", "Home Page": "https://www.riscosopen.org/", "OS Type:": "Other OS", "Based on:": null, "Origin:": "United Kingdom", "Distro Watch": "https://distrowatch.com/table.php?distribution=risc"}, {"Distribution": "risiOS", "Home Page": "https://risi.io/", "OS Type:": "Linux", "Based on:": "Fedora", "Origin:": "USA", "Distro Watch": "https://distrowatch.com/table.php?distribution=risios"}, {"Distribution": "rlxos", "Home Page": "https://rlxos.dev/", "OS Type:": "Linux", "Based on:": null, "Origin:": "Global", "Distro Watch": "https://distrowatch.com/table.php?distribution=rlxos"}, {"Distribution": "Robolinux", "Home Page": "http://www.robolinux.org/", "OS Type:": "Linux", "Based on:": "Ubuntu", "Origin:": "USA", "Distro Watch": "https://distrowatch.com/table.php?distribution=robolinux"}, {"Distribution": "Rockstor", "Home Page": "http://rockstor.com/", "OS Type:": "Linux", "Based on:": "openSUSE", "Origin:": "USA", "Distro Watch": "https://distrowatch.com/table.php?distribution=rockstor"}, {"Distribution": "Rocky Linux", "Home Page": "https://rockylinux.org/", "OS Type:": "Linux", "Based on:": "Red Hat", "Origin:": "USA", "Distro Watch": "https://distrowatch.com/table.php?distribution=rocky"}, {"Distribution": "ROSA", "Home Page": "https://www.rosalinux.ru/", "OS Type:": "Linux", "Based on:": "Mandriva", "Origin:": "Russia", "Distro Watch": "https://distrowatch.com/table.php?distribution=rosa"}, {"Distribution": "Raspberry Slideshow", "Home Page": "http://www.binaryemotions.com/digital-signage/raspberry-slideshow/", "OS Type:": "Linux", "Based on:": "Raspbian", "Origin:": "Italy", "Distro Watch": "https://distrowatch.com/table.php?distribution=rss"}, {"Distribution": "Runtu", "Home Page": "http://www.runtu.org/", "OS Type:": "Linux", "Based on:": "Debian", "Origin:": "Russia", "Distro Watch": "https://distrowatch.com/table.php?distribution=runtu"}, {"Distribution": "Salix (formerly Salix OS)", "Home Page": "http://www.salixos.org/", "OS Type:": "Linux", "Based on:": "Slackware", "Origin:": "Europe", "Distro Watch": "https://distrowatch.com/table.php?distribution=salix"}, {"Distribution": "SDesk", "Home Page": "https://www.stevestudios.net/", "OS Type:": "Linux", "Based on:": "Arch", "Origin:": "Canada", "Distro Watch": "https://distrowatch.com/table.php?distribution=sdesk"}, {"Distribution": "SELKS", "Home Page": "https://www.stamus-networks.com/open-source/#selks", "OS Type:": "Linux", "Based on:": "Debian (Stable)", "Origin:": "France", "Distro Watch": "https://distrowatch.com/table.php?distribution=selks"}, {"Distribution": "siduction", "Home Page": "https://siduction.org/", "OS Type:": "Linux", "Based on:": "Debian (Unstable)", "Origin:": "Germany", "Distro Watch": "https://distrowatch.com/table.php?distribution=siduction"}, {"Distribution": "Skudonet", "Home Page": "https://www.skudonet.com/", "OS Type:": "Linux", "Based on:": "Debian (Stable)", "Origin:": "Spain", "Distro Watch": "https://distrowatch.com/table.php?distribution=skudonet"}, {"Distribution": "Slackel", "Home Page": "http://www.slackel.gr/", "OS Type:": "Linux", "Based on:": "Slackware", "Origin:": "Greece", "Distro Watch": "https://distrowatch.com/table.php?distribution=slackel"}, {"Distribution": "The Slackware Linux Project", "Home Page": "http://www.slackware.com/", "OS Type:": "Linux", "Based on:": null, "Origin:": "USA", "Distro Watch": "https://distrowatch.com/table.php?distribution=slackware"}, {"Distribution": "Slax", "Home Page": "https://www.slax.org/", "OS Type:": "Linux", "Based on:": "Debian (Stable)", "Origin:": "Czech Republic", "Distro Watch": "https://distrowatch.com/table.php?distribution=slax"}, {"Distribution": "Slint", "Home Page": "https://slint.fr/en/home.html", "OS Type:": "Linux", "Based on:": "Slackware", "Origin:": "France", "Distro Watch": "https://distrowatch.com/table.php?distribution=slint"}, {"Distribution": "SliTaz GNU/Linux", "Home Page": "http://www.slitaz.org/", "OS Type:": "Linux", "Based on:": null, "Origin:": "Switzerland", "Distro Watch": "https://distrowatch.com/table.php?distribution=slitaz"}, {"Distribution": "SmartOS", "Home Page": "https://www.tritondatacenter.com/smartos", "OS Type:": "Solaris", "Based on:": "Solaris", "Origin:": "USA", "Distro Watch": "https://distrowatch.com/table.php?distribution=smartos"}, {"Distribution": "SME Server (formerly e-smith)", "Home Page": "http://www.smeserver.org/", "OS Type:": "Linux", "Based on:": "Fedora", "Origin:": "USA", "Distro Watch": "https://distrowatch.com/table.php?distribution=smeserver"}, {"Distribution": "Snal Linux", "Home Page": "https://snallinux.sourceforge.io/", "OS Type:": "Linux", "Based on:": "Arch", "Origin:": "USA", "Distro Watch": "https://distrowatch.com/table.php?distribution=snal"}, {"Distribution": "Solaris Operating System", "Home Page": "https://www.oracle.com/technetwork/server-storage/solaris11/overview/", "OS Type:": "Solaris", "Based on:": null, "Origin:": "USA", "Distro Watch": "https://distrowatch.com/table.php?distribution=solaris"}, {"Distribution": "Solus", "Home Page": "https://getsol.us/", "OS Type:": "Linux", "Based on:": null, "Origin:": "Ireland", "Distro Watch": "https://distrowatch.com/table.php?distribution=solus"}, {"Distribution": "SolydXK", "Home Page": "https://solydxk.com/", "OS Type:": "Linux", "Based on:": "Debian (Stable)", "Origin:": "Netherlands", "Distro Watch": "https://distrowatch.com/table.php?distribution=solydxk"}, {"Distribution": "SparkyLinux", "Home Page": "https://sparkylinux.org/", "OS Type:": "Linux", "Based on:": "Debian", "Origin:": "Poland", "Distro Watch": "https://distrowatch.com/table.php?distribution=sparky"}, {"Distribution": "SpiralLinux", "Home Page": "https://spirallinux.github.io/", "OS Type:": "Linux", "Based on:": "Debian", "Origin:": "USA", "Distro Watch": "https://distrowatch.com/table.php?distribution=spiral"}, {"Distribution": "Springdale Linux (formerly PUIAS Linux)", "Home Page": "http://springdale.math.ias.edu/", "OS Type:": "Linux", "Based on:": "Fedora", "Origin:": "USA", "Distro Watch": "https://distrowatch.com/table.php?distribution=springdale"}, {"Distribution": "Super Grub2 Disk", "Home Page": "https://www.supergrubdisk.org/super-grub2-disk/", "OS Type:": "GRUB", "Based on:": null, "Origin:": "Spain", "Distro Watch": "https://distrowatch.com/table.php?distribution=supergrub"}, {"Distribution": "SUSE Linux Enterprise Desktop (SLED), SUSE Linux Enterprise Server (SLES)", "Home Page": "https://www.suse.com/", "OS Type:": "Linux", "Based on:": "openSUSE", "Origin:": "Germany", "Distro Watch": "https://distrowatch.com/table.php?distribution=sle"}, {"Distribution": "SysLinuxOS", "Home Page": "https://syslinuxos.com/", "OS Type:": "Linux", "Based on:": "Debian (Stable)", "Origin:": "Italy", "Distro Watch": "https://distrowatch.com/table.php?distribution=syslinuxos"}, {"Distribution": "SystemRescue (formerly SystemRescueCd)", "Home Page": "https://www.system-rescue.org/", "OS Type:": "Linux", "Based on:": "Arch", "Origin:": "France", "Distro Watch": "https://distrowatch.com/table.php?distribution=systemrescue"}, {"Distribution": "T2 System Development Environment", "Home Page": "http://www.t2-project.org/", "OS Type:": "Linux", "Based on:": "ROCK", "Origin:": "Germany", "Distro Watch": "https://distrowatch.com/table.php?distribution=t2"}, {"Distribution": "Tails (The Amnesic Incognito Live System)", "Home Page": "https://tails.net/", "OS Type:": "Linux", "Based on:": "Debian (Stable)", "Origin:": "Ireland", "Distro Watch": "https://distrowatch.com/table.php?distribution=tails"}, {"Distribution": "Thinstation", "Home Page": "https://www.thinstation.org/", "OS Type:": "Linux", "Based on:": "CRUX", "Origin:": "New Zealand", "Distro Watch": "https://distrowatch.com/table.php?distribution=thinstation"}, {"Distribution": "Tiny Core Linux", "Home Page": "http://www.tinycorelinux.net/", "OS Type:": "Linux", "Based on:": "Damn Small", "Origin:": "USA", "Distro Watch": "https://distrowatch.com/table.php?distribution=tinycore"}, {"Distribution": "Trisquel GNU/Linux", "Home Page": "https://trisquel.info/", "OS Type:": "Linux", "Based on:": "Debian", "Origin:": "Spain", "Distro Watch": "https://distrowatch.com/table.php?distribution=trisquel"}, {"Distribution": "TrueNAS (formerly FreeNAS)", "Home Page": "https://www.truenas.com/", "OS Type:": "BSD, Linux", "Based on:": "Debian", "Origin:": "France, USA", "Distro Watch": "https://distrowatch.com/table.php?distribution=truenas"}, {"Distribution": "TurnKey Linux", "Home Page": "http://www.turnkeylinux.org/", "OS Type:": "Linux", "Based on:": "Debian (Stable)", "Origin:": "USA", "Distro Watch": "https://distrowatch.com/table.php?distribution=turnkey"}, {"Distribution": "TUXEDO OS", "Home Page": "https://www.tuxedocomputers.com/os", "OS Type:": "Linux", "Based on:": "Debian", "Origin:": "Germany", "Distro Watch": "https://distrowatch.com/table.php?distribution=tuxedo"}, {"Distribution": "UBOS", "Home Page": "http://ubos.net/", "OS Type:": "Linux", "Based on:": "Arch", "Origin:": "USA", "Distro Watch": "https://distrowatch.com/table.php?distribution=ubos"}, {"Distribution": "UBports", "Home Page": "https://ubports.com/", "OS Type:": "Linux", "Based on:": "Ubuntu", "Origin:": "Norway", "Distro Watch": "https://distrowatch.com/table.php?distribution=ubports"}, {"Distribution": "Ubuntu", "Home Page": "https://www.ubuntu.com/", "OS Type:": "Linux", "Based on:": "Debian", "Origin:": "Isle of Man", "Distro Watch": "https://distrowatch.com/table.php?distribution=ubuntu"}, {"Distribution": "Ubuntu Budgie (previously budgie-remix)", "Home Page": "https://ubuntubudgie.org/", "OS Type:": "Linux", "Based on:": "Debian", "Origin:": "United Kingdom", "Distro Watch": "https://distrowatch.com/table.php?distribution=ubuntubudgie"}, {"Distribution": "Ubuntu Christian Edition", "Home Page": "http://www.ubuntuce.com/", "OS Type:": "Linux", "Based on:": "Debian", "Origin:": "USA", "Distro Watch": "https://distrowatch.com/table.php?distribution=ubuntuce"}, {"Distribution": "Ubuntu Cinnamon", "Home Page": "https://ubuntucinnamon.org/", "OS Type:": "Linux", "Based on:": "Debian", "Origin:": "Global", "Distro Watch": "https://distrowatch.com/table.php?distribution=ubuntucinnamon"}, {"Distribution": "Ubuntu Kylin (formerly UbuntuKylin)", "Home Page": "https://www.ubuntukylin.com/", "OS Type:": "Linux", "Based on:": "Debian", "Origin:": "China", "Distro Watch": "https://distrowatch.com/table.php?distribution=ubuntukylin"}, {"Distribution": "Ubuntu MATE", "Home Page": "https://ubuntu-mate.org/", "OS Type:": "Linux", "Based on:": "Debian", "Origin:": "United Kingdom", "Distro Watch": "https://distrowatch.com/table.php?distribution=ubuntumate"}, {"Distribution": "Ubuntu*Pack", "Home Page": "https://ualinux.com/en/ubuntu-oem", "OS Type:": "Linux", "Based on:": "Debian", "Origin:": "Ukraine", "Distro Watch": "https://distrowatch.com/table.php?distribution=ubuntudp"}, {"Distribution": "Ubuntu Studio", "Home Page": "https://ubuntustudio.org/", "OS Type:": "Linux", "Based on:": "Debian", "Origin:": "USA", "Distro Watch": "https://distrowatch.com/table.php?distribution=ubuntustudio"}, {"Distribution": "Ubuntu Unity", "Home Page": "https://ubuntuunity.org/", "OS Type:": "Linux", "Based on:": "Debian", "Origin:": "India", "Distro Watch": "https://distrowatch.com/table.php?distribution=ubuntuunity"}, {"Distribution": "Ufficio Zero", "Home Page": "https://www.ufficiozero.org/", "OS Type:": "Linux", "Based on:": "Debian", "Origin:": "Italy", "Distro Watch": "https://distrowatch.com/table.php?distribution=ufficiozero"}, {"Distribution": "Ultimate Edition", "Home Page": "https://ultimateedition.info/", "OS Type:": "Linux", "Based on:": "Arch", "Origin:": "USA", "Distro Watch": "https://distrowatch.com/table.php?distribution=ultimate"}, {"Distribution": "Ultramarine Linux", "Home Page": "https://ultramarine-linux.org/", "OS Type:": "Linux", "Based on:": "Fedora", "Origin:": "Thailand", "Distro Watch": "https://distrowatch.com/table.php?distribution=ultramarine"}, {"Distribution": "Univention Corporate Server", "Home Page": "https://www.univention.com/", "OS Type:": "Linux", "Based on:": "Debian", "Origin:": "Germany", "Distro Watch": "https://distrowatch.com/table.php?distribution=univention"}, {"Distribution": "Untangle NG Firewall (formerly Untangle Gateway)", "Home Page": "https://www.untangle.com/", "OS Type:": "Linux", "Based on:": "Debian", "Origin:": "USA", "Distro Watch": "https://distrowatch.com/table.php?distribution=untangle"}, {"Distribution": "Uruk GNU/Linux", "Home Page": "https://urukproject.org/dist/", "OS Type:": "Linux", "Based on:": "Debian", "Origin:": "Iraq", "Distro Watch": "https://distrowatch.com/table.php?distribution=uruk"}, {"Distribution": "Vanilla OS", "Home Page": "https://vanillaos.org/", "OS Type:": "Linux", "Based on:": "Debian", "Origin:": "Global", "Distro Watch": "https://distrowatch.com/table.php?distribution=vanilla"}, {"Distribution": "Venom Linux", "Home Page": "https://venomlinux.org/", "OS Type:": "Linux", "Based on:": null, "Origin:": "Malaysia", "Distro Watch": "https://distrowatch.com/table.php?distribution=venom"}, {"Distribution": "Vine Linux", "Home Page": "http://www.vinelinux.org/", "OS Type:": "Linux", "Based on:": null, "Origin:": "Japan", "Distro Watch": "https://distrowatch.com/table.php?distribution=vine"}, {"Distribution": "Void", "Home Page": "https://voidlinux.org/", "OS Type:": "Linux", "Based on:": null, "Origin:": "Spain", "Distro Watch": "https://distrowatch.com/table.php?distribution=void"}, {"Distribution": "Volumio (formerly RaspyFi)", "Home Page": "https://volumio.org/", "OS Type:": "Linux", "Based on:": "Debian (Stable)", "Origin:": "Italy", "Distro Watch": "https://distrowatch.com/table.php?distribution=volumio"}, {"Distribution": "Voyager Live", "Home Page": "https://voyagerlive.org/", "OS Type:": "Linux", "Based on:": "Debian (Stable)", "Origin:": "France", "Distro Watch": "https://distrowatch.com/table.php?distribution=voyager"}, {"Distribution": "VyOS", "Home Page": "https://vyos.io/", "OS Type:": "Linux", "Based on:": "Debian (Stable)", "Origin:": "Global", "Distro Watch": "https://distrowatch.com/table.php?distribution=vyos"}, {"Distribution": "wattOS", "Home Page": "https://www.planetwatt.com/", "OS Type:": "Linux", "Based on:": "Debian", "Origin:": "USA", "Distro Watch": "https://distrowatch.com/table.php?distribution=wattos"}, {"Distribution": "Whonix", "Home Page": "https://www.whonix.org/", "OS Type:": "Linux", "Based on:": "Debian", "Origin:": "Canada", "Distro Watch": "https://distrowatch.com/table.php?distribution=whonix"}, {"Distribution": "Wifislax", "Home Page": "http://www.wifislax.com/", "OS Type:": "Linux", "Based on:": "Slackware", "Origin:": "Spain", "Distro Watch": "https://distrowatch.com/table.php?distribution=wifislax"}, {"Distribution": "Window Maker Live", "Home Page": "https://wmlive.sourceforge.net/", "OS Type:": "Linux", "Based on:": "Debian (Stable)", "Origin:": "Spain", "Distro Watch": "https://distrowatch.com/table.php?distribution=wmlive"}, {"Distribution": "XigmaNAS (formerly NAS4Free)", "Home Page": "https://www.xigmanas.com/", "OS Type:": "BSD", "Based on:": "FreeBSD", "Origin:": "Netherlands", "Distro Watch": "https://distrowatch.com/table.php?distribution=xigmanas"}, {"Distribution": "Xubuntu", "Home Page": "https://www.xubuntu.org/", "OS Type:": "Linux", "Based on:": "Debian", "Origin:": "Isle of Man", "Distro Watch": "https://distrowatch.com/table.php?distribution=xubuntu"}, {"Distribution": "YunoHost", "Home Page": "https://yunohost.org/", "OS Type:": "Linux", "Based on:": "Debian", "Origin:": "France", "Distro Watch": "https://distrowatch.com/table.php?distribution=yunohost"}, {"Distribution": "Zentyal Server (formerly eBox Platform)", "Home Page": "https://www.zentyal.org/", "OS Type:": "Linux", "Based on:": "Debian", "Origin:": "Spain", "Distro Watch": "https://distrowatch.com/table.php?distribution=zentyal"}, {"Distribution": "Zenwalk GNU Linux (formerly Zenwalk Linux, Minislack)", "Home Page": "http://zenwalk.org/", "OS Type:": "Linux", "Based on:": "Slackware", "Origin:": "France", "Distro Watch": "https://distrowatch.com/table.php?distribution=zenwalk"}, {"Distribution": "Zephix", "Home Page": "https://zephix-linux.sourceforge.io/", "OS Type:": "Linux", "Based on:": "Debian (Stable)", "Origin:": "Malta", "Distro Watch": "https://distrowatch.com/table.php?distribution=zephix"}, {"Distribution": "Zorin OS", "Home Page": "https://www.zorinos.com/", "OS Type:": "Linux", "Based on:": "Debian", "Origin:": "Ireland", "Distro Watch": "https://distrowatch.com/table.php?distribution=zorin"}]
+[
+    {
+        "Distribution": "3CX Phone System",
+        "Home Page": "http://www.3cx.com/",
+        "OS Type:": "Linux",
+        "Based on:": "Debian",
+        "Origin:": "Cyprus",
+        "Distro Watch": "https://distrowatch.com/table.php?distribution=3cx"
+    },
+    {
+        "Distribution": "4MLinux",
+        "Home Page": "https://4mlinux.com/",
+        "OS Type:": "Linux",
+        "Based on:": null,
+        "Origin:": "Poland",
+        "Distro Watch": "https://distrowatch.com/table.php?distribution=4mlinux"
+    },
+    {
+        "Distribution": "Absolute Linux",
+        "Home Page": "https://www.absolutelinux.org/",
+        "OS Type:": "Linux",
+        "Based on:": "Slackware",
+        "Origin:": "USA",
+        "Distro Watch": "https://distrowatch.com/table.php?distribution=absolute"
+    },
+    {
+        "Distribution": "Accessible-Coconut",
+        "Home Page": "https://zendalona.com/accessible-coconut/",
+        "OS Type:": "Linux",
+        "Based on:": "Debian",
+        "Origin:": "India",
+        "Distro Watch": "https://distrowatch.com/table.php?distribution=ac"
+    },
+    {
+        "Distribution": "AlmaLinux OS",
+        "Home Page": "https://almalinux.org/",
+        "OS Type:": "Linux",
+        "Based on:": "Fedora",
+        "Origin:": "USA",
+        "Distro Watch": "https://distrowatch.com/table.php?distribution=alma"
+    },
+    {
+        "Distribution": "Alpine Linux",
+        "Home Page": "https://www.alpinelinux.org/",
+        "OS Type:": "Linux",
+        "Based on:": null,
+        "Origin:": "Norway",
+        "Distro Watch": "https://distrowatch.com/table.php?distribution=alpine"
+    },
+    {
+        "Distribution": "ALT Linux",
+        "Home Page": "https://en.altlinux.org/",
+        "OS Type:": "Linux",
+        "Based on:": "Mandrake",
+        "Origin:": "Russia",
+        "Distro Watch": "https://distrowatch.com/table.php?distribution=alt"
+    },
+    {
+        "Distribution": "antiX",
+        "Home Page": "https://antixlinux.com/",
+        "OS Type:": "Linux",
+        "Based on:": "Debian (Stable)",
+        "Origin:": "Greece",
+        "Distro Watch": "https://distrowatch.com/table.php?distribution=antix"
+    },
+    {
+        "Distribution": "Arch Linux",
+        "Home Page": "http://www.archlinux.org/",
+        "OS Type:": "Linux",
+        "Based on:": null,
+        "Origin:": "Canada",
+        "Distro Watch": "https://distrowatch.com/table.php?distribution=arch"
+    },
+    {
+        "Distribution": "ArchBang Linux",
+        "Home Page": "https://archbang.org/",
+        "OS Type:": "Linux",
+        "Based on:": "Arch",
+        "Origin:": "Canada",
+        "Distro Watch": "https://distrowatch.com/table.php?distribution=archbang"
+    },
+    {
+        "Distribution": "Archcraft",
+        "Home Page": "https://archcraft.io/",
+        "OS Type:": "Linux",
+        "Based on:": "Arch",
+        "Origin:": "India",
+        "Distro Watch": "https://distrowatch.com/table.php?distribution=archcraft"
+    },
+    {
+        "Distribution": "Archman GNU/Linux",
+        "Home Page": "https://archman.org/",
+        "OS Type:": "Linux",
+        "Based on:": "Arch",
+        "Origin:": "Turkey",
+        "Distro Watch": "https://distrowatch.com/table.php?distribution=archman"
+    },
+    {
+        "Distribution": "ArcoLinux",
+        "Home Page": "https://arcolinux.info/",
+        "OS Type:": "Linux",
+        "Based on:": "Arch",
+        "Origin:": "Belgium",
+        "Distro Watch": "https://distrowatch.com/table.php?distribution=arco"
+    },
+    {
+        "Distribution": "Armbian",
+        "Home Page": "https://www.armbian.com/",
+        "OS Type:": "Linux",
+        "Based on:": "Debian",
+        "Origin:": "Slovenia",
+        "Distro Watch": "https://distrowatch.com/table.php?distribution=armbian"
+    },
+    {
+        "Distribution": "Artix Linux",
+        "Home Page": "https://artixlinux.org/",
+        "OS Type:": "Linux",
+        "Based on:": "Arch",
+        "Origin:": "Global",
+        "Distro Watch": "https://distrowatch.com/table.php?distribution=artix"
+    },
+    {
+        "Distribution": "Athena OS",
+        "Home Page": "https://athenaos.org/",
+        "OS Type:": "Linux",
+        "Based on:": "Arch",
+        "Origin:": "Switzerland",
+        "Distro Watch": "https://distrowatch.com/table.php?distribution=athena"
+    },
+    {
+        "Distribution": "AUSTRUMI",
+        "Home Page": "http://cyti.latgola.lv/ruuni/",
+        "OS Type:": "Linux",
+        "Based on:": "Slackware",
+        "Origin:": "Latvia",
+        "Distro Watch": "https://distrowatch.com/table.php?distribution=austrumi"
+    },
+    {
+        "Distribution": "AV Linux",
+        "Home Page": "https://www.bandshed.net/avlinux/",
+        "OS Type:": "Linux",
+        "Based on:": "Debian",
+        "Origin:": "Canada",
+        "Distro Watch": "https://distrowatch.com/table.php?distribution=avlinux"
+    },
+    {
+        "Distribution": "BackBox Linux",
+        "Home Page": "https://www.backbox.org/",
+        "OS Type:": "Linux",
+        "Based on:": "Debian",
+        "Origin:": "Italy",
+        "Distro Watch": "https://distrowatch.com/table.php?distribution=backbox"
+    },
+    {
+        "Distribution": "Baruwa Enterprise Edition",
+        "Home Page": "https://www.baruwa.com/",
+        "OS Type:": "Linux",
+        "Based on:": "Fedora",
+        "Origin:": "South Africa",
+        "Distro Watch": "https://distrowatch.com/table.php?distribution=baruwa"
+    },
+    {
+        "Distribution": "batocera.linux",
+        "Home Page": "https://batocera.org/",
+        "OS Type:": "Linux",
+        "Based on:": null,
+        "Origin:": "France",
+        "Distro Watch": "https://distrowatch.com/table.php?distribution=batocera"
+    },
+    {
+        "Distribution": "Bedrock Linux",
+        "Home Page": "https://bedrocklinux.org/",
+        "OS Type:": "Linux",
+        "Based on:": null,
+        "Origin:": "USA",
+        "Distro Watch": "https://distrowatch.com/table.php?distribution=bedrock"
+    },
+    {
+        "Distribution": "Berry Linux",
+        "Home Page": "http://berry-lab.net/berry.html",
+        "OS Type:": "Linux",
+        "Based on:": "Fedora",
+        "Origin:": "Japan",
+        "Distro Watch": "https://distrowatch.com/table.php?distribution=berry"
+    },
+    {
+        "Distribution": "Bicom PBXware",
+        "Home Page": "http://www.bicomsystems.com/products/pbxware/",
+        "OS Type:": "Linux",
+        "Based on:": "Gentoo",
+        "Origin:": "France",
+        "Distro Watch": "https://distrowatch.com/table.php?distribution=bicom"
+    },
+    {
+        "Distribution": "BigLinux (formerly Big Linux, before BIG Linux))",
+        "Home Page": "https://www.biglinux.com.br/",
+        "OS Type:": "Linux",
+        "Based on:": "Manjaro",
+        "Origin:": "Brazil",
+        "Distro Watch": "https://distrowatch.com/table.php?distribution=biglinux"
+    },
+    {
+        "Distribution": "BlackArch Linux",
+        "Home Page": "http://blackarch.org/",
+        "OS Type:": "Linux",
+        "Based on:": "Arch",
+        "Origin:": "USA",
+        "Distro Watch": "https://distrowatch.com/table.php?distribution=blackarch"
+    },
+    {
+        "Distribution": "blendOS",
+        "Home Page": "https://blendos.co/",
+        "OS Type:": "Linux",
+        "Based on:": "Arch Linux",
+        "Origin:": "India",
+        "Distro Watch": "https://distrowatch.com/table.php?distribution=blendos"
+    },
+    {
+        "Distribution": "BlueOnyx",
+        "Home Page": "https://www.blueonyx.it/",
+        "OS Type:": "Linux",
+        "Based on:": "CentOS",
+        "Origin:": "Italy",
+        "Distro Watch": "https://distrowatch.com/table.php?distribution=blueonyx"
+    },
+    {
+        "Distribution": "Bluestar Linux",
+        "Home Page": "https://sourceforge.net/projects/bluestarlinux/",
+        "OS Type:": "Linux",
+        "Based on:": "Arch",
+        "Origin:": "Germany",
+        "Distro Watch": "https://distrowatch.com/table.php?distribution=bluestar"
+    },
+    {
+        "Distribution": "Bodhi Linux",
+        "Home Page": "https://www.bodhilinux.com/",
+        "OS Type:": "Linux",
+        "Based on:": "Debian",
+        "Origin:": "USA",
+        "Distro Watch": "https://distrowatch.com/table.php?distribution=bodhi"
+    },
+    {
+        "Distribution": "Br OS",
+        "Home Page": "https://br-os.com/",
+        "OS Type:": "Linux",
+        "Based on:": "Debian",
+        "Origin:": "Brazil",
+        "Distro Watch": "https://distrowatch.com/table.php?distribution=bros"
+    },
+    {
+        "Distribution": "BSD Router Project",
+        "Home Page": "http://bsdrp.net/",
+        "OS Type:": "BSD",
+        "Based on:": "FreeBSD",
+        "Origin:": "France",
+        "Distro Watch": "https://distrowatch.com/table.php?distribution=bsdrp"
+    },
+    {
+        "Distribution": "BunsenLabs Linux",
+        "Home Page": "https://www.bunsenlabs.org/",
+        "OS Type:": "Linux",
+        "Based on:": "Debian (Stable)",
+        "Origin:": "Global",
+        "Distro Watch": "https://distrowatch.com/table.php?distribution=bunsenlabs"
+    },
+    {
+        "Distribution": "CachyOS",
+        "Home Page": "https://cachyos.org/",
+        "OS Type:": "Linux",
+        "Based on:": "Arch",
+        "Origin:": "Germany",
+        "Distro Watch": "https://distrowatch.com/table.php?distribution=cachyos"
+    },
+    {
+        "Distribution": "CAINE (Computer Aided INvestigative Environment)",
+        "Home Page": "https://www.caine-live.net/",
+        "OS Type:": "Linux",
+        "Based on:": "Debian",
+        "Origin:": "Italy",
+        "Distro Watch": "https://distrowatch.com/table.php?distribution=caine"
+    },
+    {
+        "Distribution": "Calculate Linux",
+        "Home Page": "https://www.calculate-linux.org/",
+        "OS Type:": "Linux",
+        "Based on:": "Gentoo",
+        "Origin:": "Russia",
+        "Distro Watch": "https://distrowatch.com/table.php?distribution=calculate"
+    },
+    {
+        "Distribution": "Canaima GNU/Linux",
+        "Home Page": "http://canaima.softwarelibre.gob.ve/",
+        "OS Type:": "Linux",
+        "Based on:": "Debian (Stable)",
+        "Origin:": "Venezuela",
+        "Distro Watch": "https://distrowatch.com/table.php?distribution=canaima"
+    },
+    {
+        "Distribution": "CentOS",
+        "Home Page": "https://www.centos.org/",
+        "OS Type:": "Linux",
+        "Based on:": "Fedora",
+        "Origin:": "USA",
+        "Distro Watch": "https://distrowatch.com/table.php?distribution=centos"
+    },
+    {
+        "Distribution": "Clear Linux",
+        "Home Page": "https://clearlinux.org/",
+        "OS Type:": "Linux",
+        "Based on:": null,
+        "Origin:": "USA",
+        "Distro Watch": "https://distrowatch.com/table.php?distribution=clear"
+    },
+    {
+        "Distribution": "Clonezilla Live",
+        "Home Page": "https://clonezilla.org/",
+        "OS Type:": "Linux",
+        "Based on:": "Debian (Unstable)",
+        "Origin:": "Taiwan",
+        "Distro Watch": "https://distrowatch.com/table.php?distribution=clonezilla"
+    },
+    {
+        "Distribution": "Commodore OS Vision",
+        "Home Page": "https://www.commodoreusa.net/",
+        "OS Type:": "Linux",
+        "Based on:": "Debian",
+        "Origin:": "USA",
+        "Distro Watch": "https://distrowatch.com/table.php?distribution=commodore"
+    },
+    {
+        "Distribution": "CROWZ",
+        "Home Page": "https://sourceforge.net/projects/crowz/",
+        "OS Type:": "Linux",
+        "Based on:": "Devuan",
+        "Origin:": "USA",
+        "Distro Watch": "https://distrowatch.com/table.php?distribution=crowz"
+    },
+    {
+        "Distribution": "Crunchbangplusplus",
+        "Home Page": "https://www.crunchbangplusplus.org/",
+        "OS Type:": "Linux",
+        "Based on:": "Debian (Stable)",
+        "Origin:": "USA",
+        "Distro Watch": "https://distrowatch.com/table.php?distribution=cbpp"
+    },
+    {
+        "Distribution": "CRUX",
+        "Home Page": "https://crux.nu/",
+        "OS Type:": "Linux",
+        "Based on:": null,
+        "Origin:": "Sweden",
+        "Distro Watch": "https://distrowatch.com/table.php?distribution=crux"
+    },
+    {
+        "Distribution": "Damn Small Linux",
+        "Home Page": "https://www.damnsmalllinux.org/",
+        "OS Type:": "Linux",
+        "Based on:": "Debian",
+        "Origin:": "USA",
+        "Distro Watch": "https://distrowatch.com/table.php?distribution=damnsmall"
+    },
+    {
+        "Distribution": "Daphile",
+        "Home Page": "https://www.daphile.com/",
+        "OS Type:": "Linux",
+        "Based on:": "Gentoo",
+        "Origin:": "Finland",
+        "Distro Watch": "https://distrowatch.com/table.php?distribution=daphile"
+    },
+    {
+        "Distribution": "Debian (formerly Debian GNU/Linux)",
+        "Home Page": "https://www.debian.org/",
+        "OS Type:": "Linux",
+        "Based on:": null,
+        "Origin:": "Global",
+        "Distro Watch": "https://distrowatch.com/table.php?distribution=debian"
+    },
+    {
+        "Distribution": "Debian Edu/Skolelinux",
+        "Home Page": "http://www.skolelinux.org/",
+        "OS Type:": "Linux",
+        "Based on:": "Debian (Stable)",
+        "Origin:": "Norway",
+        "Distro Watch": "https://distrowatch.com/table.php?distribution=skolelinux"
+    },
+    {
+        "Distribution": "deepin (formerly Deepin, before Linux Deepin, Hiweed GNU/Linux)",
+        "Home Page": "https://deepin.org/",
+        "OS Type:": "Linux",
+        "Based on:": "Debian",
+        "Origin:": "China",
+        "Distro Watch": "https://distrowatch.com/table.php?distribution=deepin"
+    },
+    {
+        "Distribution": "Devuan GNU+Linux",
+        "Home Page": "https://devuan.org/",
+        "OS Type:": "Linux",
+        "Based on:": "Debian",
+        "Origin:": "Global",
+        "Distro Watch": "https://distrowatch.com/table.php?distribution=devuan"
+    },
+    {
+        "Distribution": "Diamond Linux-TT",
+        "Home Page": "https://www.linux-tt.com/",
+        "OS Type:": "Linux",
+        "Based on:": "Debian",
+        "Origin:": "Germany",
+        "Distro Watch": "https://distrowatch.com/table.php?distribution=diamond"
+    },
+    {
+        "Distribution": "DietPi",
+        "Home Page": "https://dietpi.com/",
+        "OS Type:": "Linux",
+        "Based on:": "Debian",
+        "Origin:": "United Kingdom",
+        "Distro Watch": "https://distrowatch.com/table.php?distribution=dietpi"
+    },
+    {
+        "Distribution": "Dr.Parted Live",
+        "Home Page": "https://dr-parted-live.sourceforge.io/",
+        "OS Type:": "Linux",
+        "Based on:": "Debian",
+        "Origin:": "Global",
+        "Distro Watch": "https://distrowatch.com/table.php?distribution=drparted"
+    },
+    {
+        "Distribution": "DragonFly BSD",
+        "Home Page": "http://www.dragonflybsd.org/",
+        "OS Type:": "BSD",
+        "Based on:": "FreeBSD",
+        "Origin:": "USA",
+        "Distro Watch": "https://distrowatch.com/table.php?distribution=dragonflybsd"
+    },
+    {
+        "Distribution": "Dragora GNU/Linux-Libre (formerly Dragora GNU/Linux)",
+        "Home Page": "http://www.dragora.org/",
+        "OS Type:": "Linux",
+        "Based on:": null,
+        "Origin:": "Argentina",
+        "Distro Watch": "https://distrowatch.com/table.php?distribution=dragora"
+    },
+    {
+        "Distribution": "Dynebolic (also spelt as dynebolic, Dyne:bolic or dyne:bolic)",
+        "Home Page": "https://dynebolic.org",
+        "OS Type:": "Linux",
+        "Based on:": "Devuan",
+        "Origin:": "Italy",
+        "Distro Watch": "https://distrowatch.com/table.php?distribution=dynebolic"
+    },
+    {
+        "Distribution": "DynFi Firewall",
+        "Home Page": "https://dynfi.com/en/dynfi-firewall/",
+        "OS Type:": "BSD",
+        "Based on:": "FreeBSD",
+        "Origin:": "France",
+        "Distro Watch": "https://distrowatch.com/table.php?distribution=dynfi"
+    },
+    {
+        "Distribution": "EasyNAS",
+        "Home Page": "https://www.easynas.org/",
+        "OS Type:": "Linux",
+        "Based on:": "openSUSE",
+        "Origin:": "Israel",
+        "Distro Watch": "https://distrowatch.com/table.php?distribution=easynas"
+    },
+    {
+        "Distribution": "EasyOS",
+        "Home Page": "https://easyos.org/",
+        "OS Type:": "Linux",
+        "Based on:": null,
+        "Origin:": "Australia",
+        "Distro Watch": "https://distrowatch.com/table.php?distribution=easyos"
+    },
+    {
+        "Distribution": "Edubuntu",
+        "Home Page": "https://www.edubuntu.org/",
+        "OS Type:": "Linux",
+        "Based on:": "Debian",
+        "Origin:": "Isle of Man",
+        "Distro Watch": "https://distrowatch.com/table.php?distribution=edubuntu"
+    },
+    {
+        "Distribution": "eLearnix (also known as FreeLoader Linux)",
+        "Home Page": "http://freehumanity.live/",
+        "OS Type:": "Linux",
+        "Based on:": "Debian",
+        "Origin:": "Canada",
+        "Distro Watch": "https://distrowatch.com/table.php?distribution=elearnix"
+    },
+    {
+        "Distribution": "elementary OS",
+        "Home Page": "https://elementary.io/",
+        "OS Type:": "Linux",
+        "Based on:": "Debian",
+        "Origin:": "USA",
+        "Distro Watch": "https://distrowatch.com/table.php?distribution=elementary"
+    },
+    {
+        "Distribution": "Elive",
+        "Home Page": "https://www.elivecd.org/",
+        "OS Type:": "Linux",
+        "Based on:": "Debian (Stable)",
+        "Origin:": "Belgium",
+        "Distro Watch": "https://distrowatch.com/table.php?distribution=elive"
+    },
+    {
+        "Distribution": "Emmabuntüs",
+        "Home Page": "https://emmabuntus.org/",
+        "OS Type:": "Linux",
+        "Based on:": "Debian (Stable)",
+        "Origin:": "France",
+        "Distro Watch": "https://distrowatch.com/table.php?distribution=emmabuntus"
+    },
+    {
+        "Distribution": "EndeavourOS",
+        "Home Page": "https://endeavouros.com/",
+        "OS Type:": "Linux",
+        "Based on:": "Arch",
+        "Origin:": "Netherlands",
+        "Distro Watch": "https://distrowatch.com/table.php?distribution=endeavour"
+    },
+    {
+        "Distribution": "Endian Firewall",
+        "Home Page": "https://www.endian.com/community/",
+        "OS Type:": "Linux",
+        "Based on:": "Red Hat",
+        "Origin:": "Italy",
+        "Distro Watch": "https://distrowatch.com/table.php?distribution=endian"
+    },
+    {
+        "Distribution": "Endless OS",
+        "Home Page": "https://endlessos.com/",
+        "OS Type:": "Linux",
+        "Based on:": "Debian (Stable)",
+        "Origin:": "USA",
+        "Distro Watch": "https://distrowatch.com/table.php?distribution=endless"
+    },
+    {
+        "Distribution": "EuroLinux",
+        "Home Page": "https://en.euro-linux.com/eurolinux/",
+        "OS Type:": "Linux",
+        "Based on:": "Red Hat",
+        "Origin:": "Poland",
+        "Distro Watch": "https://distrowatch.com/table.php?distribution=eurolinux"
+    },
+    {
+        "Distribution": "Exe GNU/Linux",
+        "Home Page": "http://exegnulinux.net/",
+        "OS Type:": "Linux",
+        "Based on:": "Debian (Stable)",
+        "Origin:": "United Kingdom",
+        "Distro Watch": "https://distrowatch.com/table.php?distribution=exe"
+    },
+    {
+        "Distribution": "Exherbo Linux",
+        "Home Page": "http://exherbo.org/",
+        "OS Type:": "Linux",
+        "Based on:": null,
+        "Origin:": "Denmark",
+        "Distro Watch": "https://distrowatch.com/table.php?distribution=exherbo"
+    },
+    {
+        "Distribution": "ExTiX",
+        "Home Page": "https://www.extix.se/",
+        "OS Type:": "Linux",
+        "Based on:": "Debian",
+        "Origin:": "Sweden",
+        "Distro Watch": "https://distrowatch.com/table.php?distribution=extix"
+    },
+    {
+        "Distribution": "Fatdog64 Linux",
+        "Home Page": "https://distro.ibiblio.org/fatdog/web/",
+        "OS Type:": "Linux",
+        "Based on:": "LFS (formerly based on Puppy)",
+        "Origin:": "USA",
+        "Distro Watch": "https://distrowatch.com/table.php?distribution=fatdog"
+    },
+    {
+        "Distribution": "Fedora Linux",
+        "Home Page": "https://getfedora.org/",
+        "OS Type:": "Linux",
+        "Based on:": null,
+        "Origin:": "USA",
+        "Distro Watch": "https://distrowatch.com/table.php?distribution=fedora"
+    },
+    {
+        "Distribution": "Feren OS (formerly feren OS)",
+        "Home Page": "http://ferenos.weebly.com/",
+        "OS Type:": "Linux",
+        "Based on:": "Debian",
+        "Origin:": "United Kingdom",
+        "Distro Watch": "https://distrowatch.com/table.php?distribution=ferenos"
+    },
+    {
+        "Distribution": "Finnix",
+        "Home Page": "https://www.finnix.org/",
+        "OS Type:": "Linux",
+        "Based on:": "Debian (Testing)",
+        "Origin:": "USA",
+        "Distro Watch": "https://distrowatch.com/table.php?distribution=finnix"
+    },
+    {
+        "Distribution": "FreeBSD",
+        "Home Page": "https://www.freebsd.org/",
+        "OS Type:": "BSD",
+        "Based on:": null,
+        "Origin:": "USA",
+        "Distro Watch": "https://distrowatch.com/table.php?distribution=freebsd"
+    },
+    {
+        "Distribution": "FreedomBox",
+        "Home Page": "https://freedombox.org/",
+        "OS Type:": "Linux",
+        "Based on:": "Debian",
+        "Origin:": "Global",
+        "Distro Watch": "https://distrowatch.com/table.php?distribution=freedombox"
+    },
+    {
+        "Distribution": "Freespire",
+        "Home Page": "https://www.freespire.net/",
+        "OS Type:": "Linux",
+        "Based on:": "Debian",
+        "Origin:": "USA",
+        "Distro Watch": "https://distrowatch.com/table.php?distribution=freespire"
+    },
+    {
+        "Distribution": "FuguIta",
+        "Home Page": "https://fuguita.org/",
+        "OS Type:": "BSD",
+        "Based on:": "OpenBSD",
+        "Origin:": "Japan",
+        "Distro Watch": "https://distrowatch.com/table.php?distribution=fuguita"
+    },
+    {
+        "Distribution": "Garuda Linux",
+        "Home Page": "https://garudalinux.org/",
+        "OS Type:": "Linux",
+        "Based on:": "Arch",
+        "Origin:": "India",
+        "Distro Watch": "https://distrowatch.com/table.php?distribution=garuda"
+    },
+    {
+        "Distribution": "GeckoLinux",
+        "Home Page": "https://geckolinux.github.io/",
+        "OS Type:": "Linux",
+        "Based on:": "openSUSE",
+        "Origin:": "USA",
+        "Distro Watch": "https://distrowatch.com/table.php?distribution=gecko"
+    },
+    {
+        "Distribution": "Gentoo Linux",
+        "Home Page": "https://www.gentoo.org/",
+        "OS Type:": "Linux",
+        "Based on:": null,
+        "Origin:": "USA",
+        "Distro Watch": "https://distrowatch.com/table.php?distribution=gentoo"
+    },
+    {
+        "Distribution": "GhostBSD",
+        "Home Page": "https://www.ghostbsd.org/",
+        "OS Type:": "BSD",
+        "Based on:": "FreeBSD",
+        "Origin:": "Canada",
+        "Distro Watch": "https://distrowatch.com/table.php?distribution=ghostbsd"
+    },
+    {
+        "Distribution": "Gnoppix",
+        "Home Page": "https://www.gnoppix.com/",
+        "OS Type:": "Linux",
+        "Based on:": "Debian",
+        "Origin:": "Germany",
+        "Distro Watch": "https://distrowatch.com/table.php?distribution=gnoppix"
+    },
+    {
+        "Distribution": "GParted Live",
+        "Home Page": "https://gparted.org/livecd.php",
+        "OS Type:": "Linux",
+        "Based on:": "Debian",
+        "Origin:": "USA",
+        "Distro Watch": "https://distrowatch.com/table.php?distribution=gparted"
+    },
+    {
+        "Distribution": "Grml",
+        "Home Page": "https://www.grml.org/",
+        "OS Type:": "Linux",
+        "Based on:": "Debian (Testing)",
+        "Origin:": "Austria",
+        "Distro Watch": "https://distrowatch.com/table.php?distribution=grml"
+    },
+    {
+        "Distribution": "Guix System (previously GuixSD)",
+        "Home Page": "https://www.gnu.org/software/guix/",
+        "OS Type:": "Linux",
+        "Based on:": null,
+        "Origin:": "France",
+        "Distro Watch": "https://distrowatch.com/table.php?distribution=guixsd"
+    },
+    {
+        "Distribution": "Haiku",
+        "Home Page": "https://haiku-os.org/",
+        "OS Type:": "Other OS",
+        "Based on:": null,
+        "Origin:": "USA",
+        "Distro Watch": "https://distrowatch.com/table.php?distribution=haiku"
+    },
+    {
+        "Distribution": "HamoniKR",
+        "Home Page": "https://hamonikr.org/",
+        "OS Type:": "Linux",
+        "Based on:": "Debian",
+        "Origin:": "South Korea",
+        "Distro Watch": "https://distrowatch.com/table.php?distribution=hamonikr"
+    },
+    {
+        "Distribution": "HardenedBSD",
+        "Home Page": "https://hardenedbsd.org/",
+        "OS Type:": "BSD",
+        "Based on:": "FreeBSD",
+        "Origin:": "USA",
+        "Distro Watch": "https://distrowatch.com/table.php?distribution=hardenedbsd"
+    },
+    {
+        "Distribution": "helloSystem",
+        "Home Page": "https://github.com/helloSystem/hello",
+        "OS Type:": "BSD",
+        "Based on:": "FreeBSD",
+        "Origin:": "Global",
+        "Distro Watch": "https://distrowatch.com/table.php?distribution=hellosystem"
+    },
+    {
+        "Distribution": "Hyperbola GNU/Linux-libre",
+        "Home Page": "https://www.hyperbola.info/",
+        "OS Type:": "Linux",
+        "Based on:": null,
+        "Origin:": "Brazil",
+        "Distro Watch": "https://distrowatch.com/table.php?distribution=hyperbola"
+    },
+    {
+        "Distribution": "IPFire",
+        "Home Page": "https://www.ipfire.org/",
+        "OS Type:": "Linux",
+        "Based on:": "IPCop",
+        "Origin:": "Germany",
+        "Distro Watch": "https://distrowatch.com/table.php?distribution=ipfire"
+    },
+    {
+        "Distribution": "Kaisen Linux",
+        "Home Page": "https://kaisenlinux.org/",
+        "OS Type:": "Linux",
+        "Based on:": "Debian",
+        "Origin:": "France",
+        "Distro Watch": "https://distrowatch.com/table.php?distribution=kaisen"
+    },
+    {
+        "Distribution": "Kali Linux (formerly BackTrack)",
+        "Home Page": "https://www.kali.org/",
+        "OS Type:": "Linux",
+        "Based on:": "Debian (Testing)",
+        "Origin:": "Gibraltar",
+        "Distro Watch": "https://distrowatch.com/table.php?distribution=kali"
+    },
+    {
+        "Distribution": "KANOTIX",
+        "Home Page": "http://kanotix.com/",
+        "OS Type:": "Linux",
+        "Based on:": "Debian (Stable)",
+        "Origin:": "Germany",
+        "Distro Watch": "https://distrowatch.com/table.php?distribution=kanotix"
+    },
+    {
+        "Distribution": "KaOS",
+        "Home Page": "https://kaosx.us/",
+        "OS Type:": "Linux",
+        "Based on:": null,
+        "Origin:": "USA",
+        "Distro Watch": "https://distrowatch.com/table.php?distribution=kaos"
+    },
+    {
+        "Distribution": "KDE neon",
+        "Home Page": "https://neon.kde.org/",
+        "OS Type:": "Linux",
+        "Based on:": "Debian",
+        "Origin:": "United Kingdom",
+        "Distro Watch": "https://distrowatch.com/table.php?distribution=kdeneon"
+    },
+    {
+        "Distribution": "Linux Kodachi",
+        "Home Page": "https://www.digi77.com/linux-kodachi/",
+        "OS Type:": "Linux",
+        "Based on:": "Debian",
+        "Origin:": "Oman",
+        "Distro Watch": "https://distrowatch.com/table.php?distribution=kodachi"
+    },
+    {
+        "Distribution": "KolibriOS",
+        "Home Page": "http://kolibrios.org/",
+        "OS Type:": "Other OS",
+        "Based on:": null,
+        "Origin:": "Russia",
+        "Distro Watch": "https://distrowatch.com/table.php?distribution=kolibri"
+    },
+    {
+        "Distribution": "Kubuntu",
+        "Home Page": "https://kubuntu.org/",
+        "OS Type:": "Linux",
+        "Based on:": "Debian",
+        "Origin:": "Isle of Man",
+        "Distro Watch": "https://distrowatch.com/table.php?distribution=kubuntu"
+    },
+    {
+        "Distribution": "Kumander Linux",
+        "Home Page": "https://www.kumander.org/",
+        "OS Type:": "Linux",
+        "Based on:": "Debian",
+        "Origin:": "Philippines",
+        "Distro Watch": "https://distrowatch.com/table.php?distribution=kumander"
+    },
+    {
+        "Distribution": "Kwort Linux",
+        "Home Page": "https://kwort.org/",
+        "OS Type:": "Linux",
+        "Based on:": "CRUX",
+        "Origin:": "Argentina",
+        "Distro Watch": "https://distrowatch.com/table.php?distribution=kwort"
+    },
+    {
+        "Distribution": "Lakka",
+        "Home Page": "http://www.lakka.tv/",
+        "OS Type:": "Linux",
+        "Based on:": "LibreELEC",
+        "Origin:": "France",
+        "Distro Watch": "https://distrowatch.com/table.php?distribution=lakka"
+    },
+    {
+        "Distribution": "Legacy OS (formerly TEENpup Linux)",
+        "Home Page": "https://legacyoslinux.net/",
+        "OS Type:": "Linux",
+        "Based on:": "Debian",
+        "Origin:": "Australia",
+        "Distro Watch": "https://distrowatch.com/table.php?distribution=legacy"
+    },
+    {
+        "Distribution": "Lernstick",
+        "Home Page": "https://www.lernstick.ch/",
+        "OS Type:": "Linux",
+        "Based on:": "Debian",
+        "Origin:": "Switzerland",
+        "Distro Watch": "https://distrowatch.com/table.php?distribution=lernstick"
+    },
+    {
+        "Distribution": "Linux From Scratch",
+        "Home Page": "http://www.linuxfromscratch.org",
+        "OS Type:": "Linux",
+        "Based on:": null,
+        "Origin:": "Canada",
+        "Distro Watch": "https://distrowatch.com/table.php?distribution=lfs"
+    },
+    {
+        "Distribution": "LibreELEC",
+        "Home Page": "https://libreelec.tv/",
+        "OS Type:": "Linux",
+        "Based on:": "OpenELEC",
+        "Origin:": "USA",
+        "Distro Watch": "https://distrowatch.com/table.php?distribution=libreelec"
+    },
+    {
+        "Distribution": "Linspire OS",
+        "Home Page": "http://www.linspirelinux.com/",
+        "OS Type:": "Linux",
+        "Based on:": "Debian",
+        "Origin:": "USA",
+        "Distro Watch": "https://distrowatch.com/table.php?distribution=linspire"
+    },
+    {
+        "Distribution": "Linux Schools (formerly Karoshi)",
+        "Home Page": "https://www.linuxschools.com/",
+        "OS Type:": "Linux",
+        "Based on:": "Debian",
+        "Origin:": "United Kingdom",
+        "Distro Watch": "https://distrowatch.com/table.php?distribution=linuxschools"
+    },
+    {
+        "Distribution": "Linux Lite",
+        "Home Page": "https://www.linuxliteos.com/",
+        "OS Type:": "Linux",
+        "Based on:": "Debian",
+        "Origin:": "New Zealand",
+        "Distro Watch": "https://distrowatch.com/table.php?distribution=lite"
+    },
+    {
+        "Distribution": "Live Raizo",
+        "Home Page": "https://sourceforge.net/projects/live-raizo/",
+        "OS Type:": "Linux",
+        "Based on:": "Debian",
+        "Origin:": "France",
+        "Distro Watch": "https://distrowatch.com/table.php?distribution=liveraizo"
+    },
+    {
+        "Distribution": "Liya",
+        "Home Page": "https://liyalinux.gitlab.io/",
+        "OS Type:": "Linux",
+        "Based on:": "Arch",
+        "Origin:": "Global",
+        "Distro Watch": "https://distrowatch.com/table.php?distribution=liya"
+    },
+    {
+        "Distribution": "LliureX",
+        "Home Page": "http://www.lliurex.net/",
+        "OS Type:": "Linux",
+        "Based on:": "Debian",
+        "Origin:": "Spain",
+        "Distro Watch": "https://distrowatch.com/table.php?distribution=lliurex"
+    },
+    {
+        "Distribution": "Lubuntu",
+        "Home Page": "https://lubuntu.me/",
+        "OS Type:": "Linux",
+        "Based on:": "Debian",
+        "Origin:": "France, Taiwan",
+        "Distro Watch": "https://distrowatch.com/table.php?distribution=lubuntu"
+    },
+    {
+        "Distribution": "LXLE",
+        "Home Page": "http://www.lxle.net/",
+        "OS Type:": "Linux",
+        "Based on:": "Debian",
+        "Origin:": "USA",
+        "Distro Watch": "https://distrowatch.com/table.php?distribution=lxle"
+    },
+    {
+        "Distribution": "Mabox Linux",
+        "Home Page": "https://maboxlinux.org/",
+        "OS Type:": "Linux",
+        "Based on:": "Manjaro",
+        "Origin:": "Poland",
+        "Distro Watch": "https://distrowatch.com/table.php?distribution=mabox"
+    },
+    {
+        "Distribution": "Mageia",
+        "Home Page": "https://www.mageia.org/",
+        "OS Type:": "Linux",
+        "Based on:": null,
+        "Origin:": "France",
+        "Distro Watch": "https://distrowatch.com/table.php?distribution=mageia"
+    },
+    {
+        "Distribution": "mAid",
+        "Home Page": "https://maid.binbash.rocks/",
+        "OS Type:": "Linux",
+        "Based on:": "Manjaro",
+        "Origin:": "Germany",
+        "Distro Watch": "https://distrowatch.com/table.php?distribution=maid"
+    },
+    {
+        "Distribution": "MakuluLinux",
+        "Home Page": "https://www.makululinux.com/",
+        "OS Type:": "Linux",
+        "Based on:": "Debian (Testing)",
+        "Origin:": "Vietnam",
+        "Distro Watch": "https://distrowatch.com/table.php?distribution=makulu"
+    },
+    {
+        "Distribution": "Manjaro Linux",
+        "Home Page": "https://manjaro.org/",
+        "OS Type:": "Linux",
+        "Based on:": "Arch",
+        "Origin:": "Austria, France, Germany",
+        "Distro Watch": "https://distrowatch.com/table.php?distribution=manjaro"
+    },
+    {
+        "Distribution": "MAX: Madrid_Linux",
+        "Home Page": "https://www.educa2.madrid.org/web/max/inicio",
+        "OS Type:": "Linux",
+        "Based on:": "Debian",
+        "Origin:": "Spain",
+        "Distro Watch": "https://distrowatch.com/table.php?distribution=max"
+    },
+    {
+        "Distribution": "MidnightBSD",
+        "Home Page": "https://www.midnightbsd.org/",
+        "OS Type:": "BSD",
+        "Based on:": "FreeBSD",
+        "Origin:": "USA",
+        "Distro Watch": "https://distrowatch.com/table.php?distribution=midnightbsd"
+    },
+    {
+        "Distribution": "Linux Mint",
+        "Home Page": "https://linuxmint.com/",
+        "OS Type:": "Linux",
+        "Based on:": "Debian (Stable)",
+        "Origin:": "Ireland",
+        "Distro Watch": "https://distrowatch.com/table.php?distribution=mint"
+    },
+    {
+        "Distribution": "MIRACLE LINUX",
+        "Home Page": "https://www.miraclelinux.com",
+        "OS Type:": "Linux",
+        "Based on:": "Red Hat",
+        "Origin:": "Japan",
+        "Distro Watch": "https://distrowatch.com/table.php?distribution=miracle"
+    },
+    {
+        "Distribution": "Murena",
+        "Home Page": "https://murena.com/",
+        "OS Type:": "Linux",
+        "Based on:": "LineageOS",
+        "Origin:": "France",
+        "Distro Watch": "https://distrowatch.com/table.php?distribution=murena"
+    },
+    {
+        "Distribution": "MX Linux",
+        "Home Page": "https://mxlinux.org/",
+        "OS Type:": "Linux",
+        "Based on:": "Debian (Stable)",
+        "Origin:": "Greece, USA",
+        "Distro Watch": "https://distrowatch.com/table.php?distribution=mx"
+    },
+    {
+        "Distribution": "Navy Linux",
+        "Home Page": "https://navylinux.org/",
+        "OS Type:": "Linux",
+        "Based on:": "Fedora",
+        "Origin:": "Bahamas",
+        "Distro Watch": "https://distrowatch.com/table.php?distribution=navy"
+    },
+    {
+        "Distribution": "Neptune",
+        "Home Page": "https://neptuneos.com/",
+        "OS Type:": "Linux",
+        "Based on:": "Debian (Stable)",
+        "Origin:": "Germany",
+        "Distro Watch": "https://distrowatch.com/table.php?distribution=neptune"
+    },
+    {
+        "Distribution": "NetBSD",
+        "Home Page": "https://www.netbsd.org/",
+        "OS Type:": "BSD",
+        "Based on:": null,
+        "Origin:": "USA",
+        "Distro Watch": "https://distrowatch.com/table.php?distribution=netbsd"
+    },
+    {
+        "Distribution": "NethSecurity",
+        "Home Page": "https://nethsecurity.org/",
+        "OS Type:": "Linux",
+        "Based on:": "NethServer",
+        "Origin:": "Italy",
+        "Distro Watch": "https://distrowatch.com/table.php?distribution=nethsecurity"
+    },
+    {
+        "Distribution": "Netrunner",
+        "Home Page": "http://www.netrunner.com/",
+        "OS Type:": "Linux",
+        "Based on:": "Debian (Stable)",
+        "Origin:": "Germany",
+        "Distro Watch": "https://distrowatch.com/table.php?distribution=netrunner"
+    },
+    {
+        "Distribution": "NexentaStor",
+        "Home Page": "https://nexenta.com/products/nexentastor",
+        "OS Type:": "Solaris",
+        "Based on:": "Solaris",
+        "Origin:": "USA",
+        "Distro Watch": "https://distrowatch.com/table.php?distribution=nexentastor"
+    },
+    {
+        "Distribution": "Nitrux",
+        "Home Page": "https://nxos.org/",
+        "OS Type:": "Linux",
+        "Based on:": "Debian",
+        "Origin:": "Mexico",
+        "Distro Watch": "https://distrowatch.com/table.php?distribution=nitrux"
+    },
+    {
+        "Distribution": "NixOS",
+        "Home Page": "https://nixos.org/",
+        "OS Type:": "Linux",
+        "Based on:": null,
+        "Origin:": "Netherlands",
+        "Distro Watch": "https://distrowatch.com/table.php?distribution=nixos"
+    },
+    {
+        "Distribution": "Nobara Project",
+        "Home Page": "https://nobaraproject.org/",
+        "OS Type:": "Linux",
+        "Based on:": "Fedora",
+        "Origin:": "USA",
+        "Distro Watch": "https://distrowatch.com/table.php?distribution=nobara"
+    },
+    {
+        "Distribution": "NomadBSD",
+        "Home Page": "https://nomadbsd.org/",
+        "OS Type:": "BSD",
+        "Based on:": "FreeBSD",
+        "Origin:": "Germany",
+        "Distro Watch": "https://distrowatch.com/table.php?distribution=nomadbsd"
+    },
+    {
+        "Distribution": "Nova",
+        "Home Page": "https://www.nova.cu/",
+        "OS Type:": "Linux",
+        "Based on:": "Debian",
+        "Origin:": "Cuba",
+        "Distro Watch": "https://distrowatch.com/table.php?distribution=nova"
+    },
+    {
+        "Distribution": "Network Security Toolkit (NST)",
+        "Home Page": "https://www.networksecuritytoolkit.org/",
+        "OS Type:": "Linux",
+        "Based on:": "Fedora",
+        "Origin:": "USA",
+        "Distro Watch": "https://distrowatch.com/table.php?distribution=nst"
+    },
+    {
+        "Distribution": "NuTyX",
+        "Home Page": "https://www.nutyx.org/",
+        "OS Type:": "Linux",
+        "Based on:": "LFS",
+        "Origin:": "Switzerland",
+        "Distro Watch": "https://distrowatch.com/table.php?distribution=nutyx"
+    },
+    {
+        "Distribution": "OB2D Linux (formerly B2D Linux)",
+        "Home Page": "http://b2d-linux.com/",
+        "OS Type:": "Linux",
+        "Based on:": "Debian (Testing)",
+        "Origin:": "Taiwan",
+        "Distro Watch": "https://distrowatch.com/table.php?distribution=ob2d"
+    },
+    {
+        "Distribution": "Obarun",
+        "Home Page": "https://web.obarun.org/",
+        "OS Type:": "Linux",
+        "Based on:": "Arch",
+        "Origin:": "Switzerland",
+        "Distro Watch": "https://distrowatch.com/table.php?distribution=obarun"
+    },
+    {
+        "Distribution": "ARMA (Omoikane GNU/Linux)",
+        "Home Page": "http://www.omoikane.co.jp",
+        "OS Type:": "Linux",
+        "Based on:": "Debian",
+        "Origin:": "Japan",
+        "Distro Watch": "https://distrowatch.com/table.php?distribution=omoikane"
+    },
+    {
+        "Distribution": "OpenBSD",
+        "Home Page": "https://www.openbsd.org/",
+        "OS Type:": "BSD",
+        "Based on:": null,
+        "Origin:": "Canada",
+        "Distro Watch": "https://distrowatch.com/table.php?distribution=openbsd"
+    },
+    {
+        "Distribution": "OpenIndiana",
+        "Home Page": "https://openindiana.org/",
+        "OS Type:": "Solaris",
+        "Based on:": "Solaris",
+        "Origin:": "United Kingdom",
+        "Distro Watch": "https://distrowatch.com/table.php?distribution=openindiana"
+    },
+    {
+        "Distribution": "openKylin",
+        "Home Page": "https://www.openkylin.top/",
+        "OS Type:": "Linux",
+        "Based on:": "Debian",
+        "Origin:": "China",
+        "Distro Watch": "https://distrowatch.com/table.php?distribution=openkylin"
+    },
+    {
+        "Distribution": "openmamba GNU/Linux",
+        "Home Page": "https://openmamba.org/",
+        "OS Type:": "Linux",
+        "Based on:": null,
+        "Origin:": "Italy",
+        "Distro Watch": "https://distrowatch.com/table.php?distribution=openmamba"
+    },
+    {
+        "Distribution": "OpenMandriva Lx",
+        "Home Page": "https://www.openmandriva.org/",
+        "OS Type:": "Linux",
+        "Based on:": null,
+        "Origin:": "France",
+        "Distro Watch": "https://distrowatch.com/table.php?distribution=openmandriva"
+    },
+    {
+        "Distribution": "OpenMediaVault",
+        "Home Page": "https://www.openmediavault.org/",
+        "OS Type:": "Linux",
+        "Based on:": "Debian",
+        "Origin:": "Germany",
+        "Distro Watch": "https://distrowatch.com/table.php?distribution=openmediavault"
+    },
+    {
+        "Distribution": "openSUSE (formerly SUSE Linux)",
+        "Home Page": "https://www.opensuse.org/",
+        "OS Type:": "Linux",
+        "Based on:": null,
+        "Origin:": "Germany",
+        "Distro Watch": "https://distrowatch.com/table.php?distribution=opensuse"
+    },
+    {
+        "Distribution": "OPNsense",
+        "Home Page": "https://opnsense.org/",
+        "OS Type:": "BSD",
+        "Based on:": "FreeBSD",
+        "Origin:": "Netherlands",
+        "Distro Watch": "https://distrowatch.com/table.php?distribution=opnsense"
+    },
+    {
+        "Distribution": "Oracle Linux",
+        "Home Page": "https://www.oracle.com/linux/",
+        "OS Type:": "Linux",
+        "Based on:": "Red Hat",
+        "Origin:": "USA",
+        "Distro Watch": "https://distrowatch.com/table.php?distribution=oracle"
+    },
+    {
+        "Distribution": "OSGeoLive (formerly OSGeo-Live)",
+        "Home Page": "https://live.osgeo.org/",
+        "OS Type:": "Linux",
+        "Based on:": "Debian",
+        "Origin:": "USA",
+        "Distro Watch": "https://distrowatch.com/table.php?distribution=osgeo"
+    },
+    {
+        "Distribution": "OSMC (formerly Raspbmc)",
+        "Home Page": "https://osmc.tv/",
+        "OS Type:": "Linux",
+        "Based on:": "Debian (Stable)",
+        "Origin:": "United Kingdom",
+        "Distro Watch": "https://distrowatch.com/table.php?distribution=osmc"
+    },
+    {
+        "Distribution": "OviOS Linux",
+        "Home Page": "https://www.ovios.org/",
+        "OS Type:": "Linux",
+        "Based on:": null,
+        "Origin:": "Canada",
+        "Distro Watch": "https://distrowatch.com/table.php?distribution=ovios"
+    },
+    {
+        "Distribution": "PakOS",
+        "Home Page": "https://sourceforge.net/projects/pakos/",
+        "OS Type:": "Linux",
+        "Based on:": "Debian",
+        "Origin:": "Pakistan",
+        "Distro Watch": "https://distrowatch.com/table.php?distribution=pakos"
+    },
+    {
+        "Distribution": "paldo GNU/Linux",
+        "Home Page": "http://www.paldo.org/",
+        "OS Type:": "Linux",
+        "Based on:": null,
+        "Origin:": "Switzerland",
+        "Distro Watch": "https://distrowatch.com/table.php?distribution=paldo"
+    },
+    {
+        "Distribution": "Parabola GNU/Linux-libre",
+        "Home Page": "https://parabola.nu/",
+        "OS Type:": "Linux",
+        "Based on:": "Arch",
+        "Origin:": "Chile",
+        "Distro Watch": "https://distrowatch.com/table.php?distribution=parabola"
+    },
+    {
+        "Distribution": "Pardus",
+        "Home Page": "https://www.pardus.org.tr/",
+        "OS Type:": "Linux",
+        "Based on:": "Debian",
+        "Origin:": "Turkey",
+        "Distro Watch": "https://distrowatch.com/table.php?distribution=pardus"
+    },
+    {
+        "Distribution": "Parrot (formerly Parrot Security OS)",
+        "Home Page": "https://parrotsec.org/",
+        "OS Type:": "Linux",
+        "Based on:": "Debian",
+        "Origin:": "Italy",
+        "Distro Watch": "https://distrowatch.com/table.php?distribution=parrot"
+    },
+    {
+        "Distribution": "Parted Magic",
+        "Home Page": "https://partedmagic.com/",
+        "OS Type:": "Linux",
+        "Based on:": "Slackware",
+        "Origin:": "USA",
+        "Distro Watch": "https://distrowatch.com/table.php?distribution=partedmagic"
+    },
+    {
+        "Distribution": "PCLinuxOS",
+        "Home Page": "https://www.pclinuxos.com/",
+        "OS Type:": "Linux",
+        "Based on:": null,
+        "Origin:": "USA",
+        "Distro Watch": "https://distrowatch.com/table.php?distribution=pclinuxos"
+    },
+    {
+        "Distribution": "Pearl Linux OS",
+        "Home Page": "https://www.pearllinux.net/",
+        "OS Type:": "Linux",
+        "Based on:": "Ubuntu",
+        "Origin:": "USA",
+        "Distro Watch": "https://distrowatch.com/table.php?distribution=pearl"
+    },
+    {
+        "Distribution": "Pentoo",
+        "Home Page": "https://www.pentoo.ch/",
+        "OS Type:": "Linux",
+        "Based on:": "Gentoo",
+        "Origin:": "Switzerland",
+        "Distro Watch": "https://distrowatch.com/table.php?distribution=pentoo"
+    },
+    {
+        "Distribution": "Peppermint OS",
+        "Home Page": "https://peppermintos.com/",
+        "OS Type:": "Linux",
+        "Based on:": "Debian (Stable)",
+        "Origin:": "United Kingdom",
+        "Distro Watch": "https://distrowatch.com/table.php?distribution=peppermint"
+    },
+    {
+        "Distribution": "Peropesis",
+        "Home Page": "https://peropesis.org/",
+        "OS Type:": "Linux",
+        "Based on:": null,
+        "Origin:": "Lithuania",
+        "Distro Watch": "https://distrowatch.com/table.php?distribution=peropesis"
+    },
+    {
+        "Distribution": "pfSense",
+        "Home Page": "https://www.pfsense.org/",
+        "OS Type:": "BSD",
+        "Based on:": "FreeBSD",
+        "Origin:": "USA",
+        "Distro Watch": "https://distrowatch.com/table.php?distribution=pfsense"
+    },
+    {
+        "Distribution": "Photon OS",
+        "Home Page": "https://vmware.github.io/photon/",
+        "OS Type:": "Linux",
+        "Based on:": null,
+        "Origin:": "USA",
+        "Distro Watch": "https://distrowatch.com/table.php?distribution=photonos"
+    },
+    {
+        "Distribution": "Pisi Linux",
+        "Home Page": "https://www.pisilinux.org/",
+        "OS Type:": "Linux",
+        "Based on:": null,
+        "Origin:": "Turkey",
+        "Distro Watch": "https://distrowatch.com/table.php?distribution=pisi"
+    },
+    {
+        "Distribution": "Plamo Linux",
+        "Home Page": "https://www.plamolinux.org/",
+        "OS Type:": "Linux",
+        "Based on:": "Slackware",
+        "Origin:": "Japan",
+        "Distro Watch": "https://distrowatch.com/table.php?distribution=plamo"
+    },
+    {
+        "Distribution": "PLD Linux Distribution",
+        "Home Page": "http://pld-linux.org/",
+        "OS Type:": "Linux",
+        "Based on:": null,
+        "Origin:": "Poland",
+        "Distro Watch": "https://distrowatch.com/table.php?distribution=pld"
+    },
+    {
+        "Distribution": "Plop Linux",
+        "Home Page": "https://www.plop.at/",
+        "OS Type:": "Linux",
+        "Based on:": null,
+        "Origin:": "Austria",
+        "Distro Watch": "https://distrowatch.com/table.php?distribution=plop"
+    },
+    {
+        "Distribution": "Pop!_OS",
+        "Home Page": "https://system76.com/pop",
+        "OS Type:": "Linux",
+        "Based on:": "Ubuntu",
+        "Origin:": "USA",
+        "Distro Watch": "https://distrowatch.com/table.php?distribution=popos"
+    },
+    {
+        "Distribution": "Porteus",
+        "Home Page": "http://www.porteus.org/",
+        "OS Type:": "Linux",
+        "Based on:": "Slackware",
+        "Origin:": "Ireland",
+        "Distro Watch": "https://distrowatch.com/table.php?distribution=porteus"
+    },
+    {
+        "Distribution": "Porteus Kiosk",
+        "Home Page": "http://porteus-kiosk.org/",
+        "OS Type:": "Linux",
+        "Based on:": "Gentoo",
+        "Origin:": "Ireland",
+        "Distro Watch": "https://distrowatch.com/table.php?distribution=porteuskiosk"
+    },
+    {
+        "Distribution": "PorteuX",
+        "Home Page": "https://github.com/porteux/porteux/",
+        "OS Type:": "Linux",
+        "Based on:": "Slackware",
+        "Origin:": "Global",
+        "Distro Watch": "https://distrowatch.com/table.php?distribution=porteux"
+    },
+    {
+        "Distribution": "postmarketOS",
+        "Home Page": "https://postmarketos.org/",
+        "OS Type:": "Linux",
+        "Based on:": "Alpine",
+        "Origin:": "Netherlands",
+        "Distro Watch": "https://distrowatch.com/table.php?distribution=postmarketos"
+    },
+    {
+        "Distribution": "PrimTux",
+        "Home Page": "https://primtux.fr/",
+        "OS Type:": "Linux",
+        "Based on:": "Ubuntu",
+        "Origin:": "France",
+        "Distro Watch": "https://distrowatch.com/table.php?distribution=primtux"
+    },
+    {
+        "Distribution": "Proxmox",
+        "Home Page": "https://www.proxmox.com/",
+        "OS Type:": "Linux",
+        "Based on:": "Debian (Stable)",
+        "Origin:": "Austria",
+        "Distro Watch": "https://distrowatch.com/table.php?distribution=proxmox"
+    },
+    {
+        "Distribution": "Puppy Linux",
+        "Home Page": "https://puppylinux-woof-ce.github.io/",
+        "OS Type:": "Linux",
+        "Based on:": null,
+        "Origin:": "Australia",
+        "Distro Watch": "https://distrowatch.com/table.php?distribution=puppy"
+    },
+    {
+        "Distribution": "PureOS",
+        "Home Page": "https://pureos.net/",
+        "OS Type:": "Linux",
+        "Based on:": "Debian",
+        "Origin:": "France",
+        "Distro Watch": "https://distrowatch.com/table.php?distribution=pureos"
+    },
+    {
+        "Distribution": "Q4OS",
+        "Home Page": "https://q4os.org/",
+        "OS Type:": "Linux",
+        "Based on:": "Debian (Stable)",
+        "Origin:": "Germany",
+        "Distro Watch": "https://distrowatch.com/table.php?distribution=q4os"
+    },
+    {
+        "Distribution": "Qubes OS",
+        "Home Page": "https://qubes-os.org/",
+        "OS Type:": "Linux",
+        "Based on:": "Debian",
+        "Origin:": "Poland",
+        "Distro Watch": "https://distrowatch.com/table.php?distribution=qubes"
+    },
+    {
+        "Distribution": "Raspberry Pi OS (formerly Raspbian)",
+        "Home Page": "https://www.raspberrypi.com/software/",
+        "OS Type:": "Linux",
+        "Based on:": "Debian (Stable)",
+        "Origin:": "United Kingdom",
+        "Distro Watch": "https://distrowatch.com/table.php?distribution=raspios"
+    },
+    {
+        "Distribution": "Raspberry Digital Signage",
+        "Home Page": "http://www.binaryemotions.com/digital-signage/raspberry-digital-signage/",
+        "OS Type:": "Linux",
+        "Based on:": "Raspbian",
+        "Origin:": "Italy",
+        "Distro Watch": "https://distrowatch.com/table.php?distribution=rds"
+    },
+    {
+        "Distribution": "ReactOS",
+        "Home Page": "https://www.reactos.org/",
+        "OS Type:": "Other OS",
+        "Based on:": null,
+        "Origin:": "Russia",
+        "Distro Watch": "https://distrowatch.com/table.php?distribution=reactos"
+    },
+    {
+        "Distribution": "RebecaBlackOS",
+        "Home Page": "https://sourceforge.net/projects/rebeccablackos/",
+        "OS Type:": "Linux",
+        "Based on:": "Debian",
+        "Origin:": "USA",
+        "Distro Watch": "https://distrowatch.com/table.php?distribution=rebeccablackos"
+    },
+    {
+        "Distribution": "RebornOS",
+        "Home Page": "https://rebornos.org/",
+        "OS Type:": "Linux",
+        "Based on:": "Arch",
+        "Origin:": "USA",
+        "Distro Watch": "https://distrowatch.com/table.php?distribution=rebornos"
+    },
+    {
+        "Distribution": "Recalbox",
+        "Home Page": "https://www.recalbox.com/",
+        "OS Type:": "Linux",
+        "Based on:": null,
+        "Origin:": "Global",
+        "Distro Watch": "https://distrowatch.com/table.php?distribution=recalbox"
+    },
+    {
+        "Distribution": "Red Hat (Enterprise) Linux",
+        "Home Page": "http://www.redhat.com/",
+        "OS Type:": "Linux",
+        "Based on:": "Fedora",
+        "Origin:": "USA",
+        "Distro Watch": "https://distrowatch.com/table.php?distribution=redhat"
+    },
+    {
+        "Distribution": "Redcore Linux",
+        "Home Page": "https://redcorelinux.org/",
+        "OS Type:": "Linux",
+        "Based on:": "Gentoo",
+        "Origin:": "Romania",
+        "Distro Watch": "https://distrowatch.com/table.php?distribution=redcore"
+    },
+    {
+        "Distribution": "Refracta",
+        "Home Page": "https://refracta.org/",
+        "OS Type:": "Linux",
+        "Based on:": "Debian",
+        "Origin:": "USA",
+        "Distro Watch": "https://distrowatch.com/table.php?distribution=refracta"
+    },
+    {
+        "Distribution": "Regata OS",
+        "Home Page": "https://www.regataos.com.br/",
+        "OS Type:": "Linux",
+        "Based on:": "openSUSE",
+        "Origin:": "Brazil",
+        "Distro Watch": "https://distrowatch.com/table.php?distribution=regata"
+    },
+    {
+        "Distribution": "RELIANOID",
+        "Home Page": "https://www.relianoid.com/",
+        "OS Type:": "Linux",
+        "Based on:": "Debian",
+        "Origin:": "USA",
+        "Distro Watch": "https://distrowatch.com/table.php?distribution=relianoid"
+    },
+    {
+        "Distribution": "Rescuezilla",
+        "Home Page": "https://rescuezilla.com/",
+        "OS Type:": "Linux",
+        "Based on:": "Debian",
+        "Origin:": "Australia",
+        "Distro Watch": "https://distrowatch.com/table.php?distribution=rescuezilla"
+    },
+    {
+        "Distribution": "Rhino Linux",
+        "Home Page": "https://rhinolinux.org/",
+        "OS Type:": "Linux",
+        "Based on:": "Debian",
+        "Origin:": "Global",
+        "Distro Watch": "https://distrowatch.com/table.php?distribution=rhino"
+    },
+    {
+        "Distribution": "RISC OS (formerly RISC OS Open)",
+        "Home Page": "https://www.riscosopen.org/",
+        "OS Type:": "Other OS",
+        "Based on:": null,
+        "Origin:": "United Kingdom",
+        "Distro Watch": "https://distrowatch.com/table.php?distribution=risc"
+    },
+    {
+        "Distribution": "risiOS",
+        "Home Page": "https://risi.io/",
+        "OS Type:": "Linux",
+        "Based on:": "Fedora",
+        "Origin:": "USA",
+        "Distro Watch": "https://distrowatch.com/table.php?distribution=risios"
+    },
+    {
+        "Distribution": "rlxos",
+        "Home Page": "https://rlxos.dev/",
+        "OS Type:": "Linux",
+        "Based on:": null,
+        "Origin:": "Global",
+        "Distro Watch": "https://distrowatch.com/table.php?distribution=rlxos"
+    },
+    {
+        "Distribution": "Robolinux",
+        "Home Page": "http://www.robolinux.org/",
+        "OS Type:": "Linux",
+        "Based on:": "Ubuntu",
+        "Origin:": "USA",
+        "Distro Watch": "https://distrowatch.com/table.php?distribution=robolinux"
+    },
+    {
+        "Distribution": "Rockstor",
+        "Home Page": "http://rockstor.com/",
+        "OS Type:": "Linux",
+        "Based on:": "openSUSE",
+        "Origin:": "USA",
+        "Distro Watch": "https://distrowatch.com/table.php?distribution=rockstor"
+    },
+    {
+        "Distribution": "Rocky Linux",
+        "Home Page": "https://rockylinux.org/",
+        "OS Type:": "Linux",
+        "Based on:": "Red Hat",
+        "Origin:": "USA",
+        "Distro Watch": "https://distrowatch.com/table.php?distribution=rocky"
+    },
+    {
+        "Distribution": "ROSA",
+        "Home Page": "https://www.rosalinux.ru/",
+        "OS Type:": "Linux",
+        "Based on:": "Mandriva",
+        "Origin:": "Russia",
+        "Distro Watch": "https://distrowatch.com/table.php?distribution=rosa"
+    },
+    {
+        "Distribution": "Raspberry Slideshow",
+        "Home Page": "http://www.binaryemotions.com/digital-signage/raspberry-slideshow/",
+        "OS Type:": "Linux",
+        "Based on:": "Raspbian",
+        "Origin:": "Italy",
+        "Distro Watch": "https://distrowatch.com/table.php?distribution=rss"
+    },
+    {
+        "Distribution": "Runtu",
+        "Home Page": "http://www.runtu.org/",
+        "OS Type:": "Linux",
+        "Based on:": "Debian",
+        "Origin:": "Russia",
+        "Distro Watch": "https://distrowatch.com/table.php?distribution=runtu"
+    },
+    {
+        "Distribution": "Salix (formerly Salix OS)",
+        "Home Page": "http://www.salixos.org/",
+        "OS Type:": "Linux",
+        "Based on:": "Slackware",
+        "Origin:": "Europe",
+        "Distro Watch": "https://distrowatch.com/table.php?distribution=salix"
+    },
+    {
+        "Distribution": "SDesk",
+        "Home Page": "https://www.stevestudios.net/",
+        "OS Type:": "Linux",
+        "Based on:": "Arch",
+        "Origin:": "Canada",
+        "Distro Watch": "https://distrowatch.com/table.php?distribution=sdesk"
+    },
+    {
+        "Distribution": "SELKS",
+        "Home Page": "https://www.stamus-networks.com/open-source/#selks",
+        "OS Type:": "Linux",
+        "Based on:": "Debian (Stable)",
+        "Origin:": "France",
+        "Distro Watch": "https://distrowatch.com/table.php?distribution=selks"
+    },
+    {
+        "Distribution": "siduction",
+        "Home Page": "https://siduction.org/",
+        "OS Type:": "Linux",
+        "Based on:": "Debian (Unstable)",
+        "Origin:": "Germany",
+        "Distro Watch": "https://distrowatch.com/table.php?distribution=siduction"
+    },
+    {
+        "Distribution": "Skudonet",
+        "Home Page": "https://www.skudonet.com/",
+        "OS Type:": "Linux",
+        "Based on:": "Debian (Stable)",
+        "Origin:": "Spain",
+        "Distro Watch": "https://distrowatch.com/table.php?distribution=skudonet"
+    },
+    {
+        "Distribution": "Slackel",
+        "Home Page": "http://www.slackel.gr/",
+        "OS Type:": "Linux",
+        "Based on:": "Slackware",
+        "Origin:": "Greece",
+        "Distro Watch": "https://distrowatch.com/table.php?distribution=slackel"
+    },
+    {
+        "Distribution": "The Slackware Linux Project",
+        "Home Page": "http://www.slackware.com/",
+        "OS Type:": "Linux",
+        "Based on:": null,
+        "Origin:": "USA",
+        "Distro Watch": "https://distrowatch.com/table.php?distribution=slackware"
+    },
+    {
+        "Distribution": "Slax",
+        "Home Page": "https://www.slax.org/",
+        "OS Type:": "Linux",
+        "Based on:": "Debian (Stable)",
+        "Origin:": "Czech Republic",
+        "Distro Watch": "https://distrowatch.com/table.php?distribution=slax"
+    },
+    {
+        "Distribution": "Slint",
+        "Home Page": "https://slint.fr/en/home.html",
+        "OS Type:": "Linux",
+        "Based on:": "Slackware",
+        "Origin:": "France",
+        "Distro Watch": "https://distrowatch.com/table.php?distribution=slint"
+    },
+    {
+        "Distribution": "SliTaz GNU/Linux",
+        "Home Page": "http://www.slitaz.org/",
+        "OS Type:": "Linux",
+        "Based on:": null,
+        "Origin:": "Switzerland",
+        "Distro Watch": "https://distrowatch.com/table.php?distribution=slitaz"
+    },
+    {
+        "Distribution": "SmartOS",
+        "Home Page": "https://www.tritondatacenter.com/smartos",
+        "OS Type:": "Solaris",
+        "Based on:": "Solaris",
+        "Origin:": "USA",
+        "Distro Watch": "https://distrowatch.com/table.php?distribution=smartos"
+    },
+    {
+        "Distribution": "SME Server (formerly e-smith)",
+        "Home Page": "http://www.smeserver.org/",
+        "OS Type:": "Linux",
+        "Based on:": "Fedora",
+        "Origin:": "USA",
+        "Distro Watch": "https://distrowatch.com/table.php?distribution=smeserver"
+    },
+    {
+        "Distribution": "Snal Linux",
+        "Home Page": "https://snallinux.sourceforge.io/",
+        "OS Type:": "Linux",
+        "Based on:": "Arch",
+        "Origin:": "USA",
+        "Distro Watch": "https://distrowatch.com/table.php?distribution=snal"
+    },
+    {
+        "Distribution": "Solaris Operating System",
+        "Home Page": "https://www.oracle.com/technetwork/server-storage/solaris11/overview/",
+        "OS Type:": "Solaris",
+        "Based on:": null,
+        "Origin:": "USA",
+        "Distro Watch": "https://distrowatch.com/table.php?distribution=solaris"
+    },
+    {
+        "Distribution": "Solus",
+        "Home Page": "https://getsol.us/",
+        "OS Type:": "Linux",
+        "Based on:": null,
+        "Origin:": "Ireland",
+        "Distro Watch": "https://distrowatch.com/table.php?distribution=solus"
+    },
+    {
+        "Distribution": "SolydXK",
+        "Home Page": "https://solydxk.com/",
+        "OS Type:": "Linux",
+        "Based on:": "Debian (Stable)",
+        "Origin:": "Netherlands",
+        "Distro Watch": "https://distrowatch.com/table.php?distribution=solydxk"
+    },
+    {
+        "Distribution": "SparkyLinux",
+        "Home Page": "https://sparkylinux.org/",
+        "OS Type:": "Linux",
+        "Based on:": "Debian",
+        "Origin:": "Poland",
+        "Distro Watch": "https://distrowatch.com/table.php?distribution=sparky"
+    },
+    {
+        "Distribution": "SpiralLinux",
+        "Home Page": "https://spirallinux.github.io/",
+        "OS Type:": "Linux",
+        "Based on:": "Debian",
+        "Origin:": "USA",
+        "Distro Watch": "https://distrowatch.com/table.php?distribution=spiral"
+    },
+    {
+        "Distribution": "Springdale Linux (formerly PUIAS Linux)",
+        "Home Page": "http://springdale.math.ias.edu/",
+        "OS Type:": "Linux",
+        "Based on:": "Fedora",
+        "Origin:": "USA",
+        "Distro Watch": "https://distrowatch.com/table.php?distribution=springdale"
+    },
+    {
+        "Distribution": "Super Grub2 Disk",
+        "Home Page": "https://www.supergrubdisk.org/super-grub2-disk/",
+        "OS Type:": "GRUB",
+        "Based on:": null,
+        "Origin:": "Spain",
+        "Distro Watch": "https://distrowatch.com/table.php?distribution=supergrub"
+    },
+    {
+        "Distribution": "SUSE Linux Enterprise Desktop (SLED), SUSE Linux Enterprise Server (SLES)",
+        "Home Page": "https://www.suse.com/",
+        "OS Type:": "Linux",
+        "Based on:": "openSUSE",
+        "Origin:": "Germany",
+        "Distro Watch": "https://distrowatch.com/table.php?distribution=sle"
+    },
+    {
+        "Distribution": "SysLinuxOS",
+        "Home Page": "https://syslinuxos.com/",
+        "OS Type:": "Linux",
+        "Based on:": "Debian (Stable)",
+        "Origin:": "Italy",
+        "Distro Watch": "https://distrowatch.com/table.php?distribution=syslinuxos"
+    },
+    {
+        "Distribution": "SystemRescue (formerly SystemRescueCd)",
+        "Home Page": "https://www.system-rescue.org/",
+        "OS Type:": "Linux",
+        "Based on:": "Arch",
+        "Origin:": "France",
+        "Distro Watch": "https://distrowatch.com/table.php?distribution=systemrescue"
+    },
+    {
+        "Distribution": "T2 System Development Environment",
+        "Home Page": "http://www.t2-project.org/",
+        "OS Type:": "Linux",
+        "Based on:": "ROCK",
+        "Origin:": "Germany",
+        "Distro Watch": "https://distrowatch.com/table.php?distribution=t2"
+    },
+    {
+        "Distribution": "Tails (The Amnesic Incognito Live System)",
+        "Home Page": "https://tails.net/",
+        "OS Type:": "Linux",
+        "Based on:": "Debian (Stable)",
+        "Origin:": "Ireland",
+        "Distro Watch": "https://distrowatch.com/table.php?distribution=tails"
+    },
+    {
+        "Distribution": "Thinstation",
+        "Home Page": "https://www.thinstation.org/",
+        "OS Type:": "Linux",
+        "Based on:": "CRUX",
+        "Origin:": "New Zealand",
+        "Distro Watch": "https://distrowatch.com/table.php?distribution=thinstation"
+    },
+    {
+        "Distribution": "Tiny Core Linux",
+        "Home Page": "http://www.tinycorelinux.net/",
+        "OS Type:": "Linux",
+        "Based on:": "Damn Small",
+        "Origin:": "USA",
+        "Distro Watch": "https://distrowatch.com/table.php?distribution=tinycore"
+    },
+    {
+        "Distribution": "Trisquel GNU/Linux",
+        "Home Page": "https://trisquel.info/",
+        "OS Type:": "Linux",
+        "Based on:": "Debian",
+        "Origin:": "Spain",
+        "Distro Watch": "https://distrowatch.com/table.php?distribution=trisquel"
+    },
+    {
+        "Distribution": "TrueNAS (formerly FreeNAS)",
+        "Home Page": "https://www.truenas.com/",
+        "OS Type:": "BSD, Linux",
+        "Based on:": "Debian",
+        "Origin:": "France, USA",
+        "Distro Watch": "https://distrowatch.com/table.php?distribution=truenas"
+    },
+    {
+        "Distribution": "TurnKey Linux",
+        "Home Page": "http://www.turnkeylinux.org/",
+        "OS Type:": "Linux",
+        "Based on:": "Debian (Stable)",
+        "Origin:": "USA",
+        "Distro Watch": "https://distrowatch.com/table.php?distribution=turnkey"
+    },
+    {
+        "Distribution": "TUXEDO OS",
+        "Home Page": "https://www.tuxedocomputers.com/os",
+        "OS Type:": "Linux",
+        "Based on:": "Debian",
+        "Origin:": "Germany",
+        "Distro Watch": "https://distrowatch.com/table.php?distribution=tuxedo"
+    },
+    {
+        "Distribution": "UBOS",
+        "Home Page": "http://ubos.net/",
+        "OS Type:": "Linux",
+        "Based on:": "Arch",
+        "Origin:": "USA",
+        "Distro Watch": "https://distrowatch.com/table.php?distribution=ubos"
+    },
+    {
+        "Distribution": "UBports",
+        "Home Page": "https://ubports.com/",
+        "OS Type:": "Linux",
+        "Based on:": "Ubuntu",
+        "Origin:": "Norway",
+        "Distro Watch": "https://distrowatch.com/table.php?distribution=ubports"
+    },
+    {
+        "Distribution": "Ubuntu",
+        "Home Page": "https://www.ubuntu.com/",
+        "OS Type:": "Linux",
+        "Based on:": "Debian",
+        "Origin:": "Isle of Man",
+        "Distro Watch": "https://distrowatch.com/table.php?distribution=ubuntu"
+    },
+    {
+        "Distribution": "Ubuntu Budgie (previously budgie-remix)",
+        "Home Page": "https://ubuntubudgie.org/",
+        "OS Type:": "Linux",
+        "Based on:": "Debian",
+        "Origin:": "United Kingdom",
+        "Distro Watch": "https://distrowatch.com/table.php?distribution=ubuntubudgie"
+    },
+    {
+        "Distribution": "Ubuntu Christian Edition",
+        "Home Page": "http://www.ubuntuce.com/",
+        "OS Type:": "Linux",
+        "Based on:": "Debian",
+        "Origin:": "USA",
+        "Distro Watch": "https://distrowatch.com/table.php?distribution=ubuntuce"
+    },
+    {
+        "Distribution": "Ubuntu Cinnamon",
+        "Home Page": "https://ubuntucinnamon.org/",
+        "OS Type:": "Linux",
+        "Based on:": "Debian",
+        "Origin:": "Global",
+        "Distro Watch": "https://distrowatch.com/table.php?distribution=ubuntucinnamon"
+    },
+    {
+        "Distribution": "Ubuntu Kylin (formerly UbuntuKylin)",
+        "Home Page": "https://www.ubuntukylin.com/",
+        "OS Type:": "Linux",
+        "Based on:": "Debian",
+        "Origin:": "China",
+        "Distro Watch": "https://distrowatch.com/table.php?distribution=ubuntukylin"
+    },
+    {
+        "Distribution": "Ubuntu MATE",
+        "Home Page": "https://ubuntu-mate.org/",
+        "OS Type:": "Linux",
+        "Based on:": "Debian",
+        "Origin:": "United Kingdom",
+        "Distro Watch": "https://distrowatch.com/table.php?distribution=ubuntumate"
+    },
+    {
+        "Distribution": "Ubuntu*Pack",
+        "Home Page": "https://ualinux.com/en/ubuntu-oem",
+        "OS Type:": "Linux",
+        "Based on:": "Debian",
+        "Origin:": "Ukraine",
+        "Distro Watch": "https://distrowatch.com/table.php?distribution=ubuntudp"
+    },
+    {
+        "Distribution": "Ubuntu Studio",
+        "Home Page": "https://ubuntustudio.org/",
+        "OS Type:": "Linux",
+        "Based on:": "Debian",
+        "Origin:": "USA",
+        "Distro Watch": "https://distrowatch.com/table.php?distribution=ubuntustudio"
+    },
+    {
+        "Distribution": "Ubuntu Unity",
+        "Home Page": "https://ubuntuunity.org/",
+        "OS Type:": "Linux",
+        "Based on:": "Debian",
+        "Origin:": "India",
+        "Distro Watch": "https://distrowatch.com/table.php?distribution=ubuntuunity"
+    },
+    {
+        "Distribution": "Ufficio Zero",
+        "Home Page": "https://www.ufficiozero.org/",
+        "OS Type:": "Linux",
+        "Based on:": "Debian",
+        "Origin:": "Italy",
+        "Distro Watch": "https://distrowatch.com/table.php?distribution=ufficiozero"
+    },
+    {
+        "Distribution": "Ultimate Edition",
+        "Home Page": "https://ultimateedition.info/",
+        "OS Type:": "Linux",
+        "Based on:": "Arch",
+        "Origin:": "USA",
+        "Distro Watch": "https://distrowatch.com/table.php?distribution=ultimate"
+    },
+    {
+        "Distribution": "Ultramarine Linux",
+        "Home Page": "https://ultramarine-linux.org/",
+        "OS Type:": "Linux",
+        "Based on:": "Fedora",
+        "Origin:": "Thailand",
+        "Distro Watch": "https://distrowatch.com/table.php?distribution=ultramarine"
+    },
+    {
+        "Distribution": "Univention Corporate Server",
+        "Home Page": "https://www.univention.com/",
+        "OS Type:": "Linux",
+        "Based on:": "Debian",
+        "Origin:": "Germany",
+        "Distro Watch": "https://distrowatch.com/table.php?distribution=univention"
+    },
+    {
+        "Distribution": "Untangle NG Firewall (formerly Untangle Gateway)",
+        "Home Page": "https://www.untangle.com/",
+        "OS Type:": "Linux",
+        "Based on:": "Debian",
+        "Origin:": "USA",
+        "Distro Watch": "https://distrowatch.com/table.php?distribution=untangle"
+    },
+    {
+        "Distribution": "Uruk GNU/Linux",
+        "Home Page": "https://urukproject.org/dist/",
+        "OS Type:": "Linux",
+        "Based on:": "Debian",
+        "Origin:": "Iraq",
+        "Distro Watch": "https://distrowatch.com/table.php?distribution=uruk"
+    },
+    {
+        "Distribution": "Vanilla OS",
+        "Home Page": "https://vanillaos.org/",
+        "OS Type:": "Linux",
+        "Based on:": "Debian",
+        "Origin:": "Global",
+        "Distro Watch": "https://distrowatch.com/table.php?distribution=vanilla"
+    },
+    {
+        "Distribution": "Venom Linux",
+        "Home Page": "https://venomlinux.org/",
+        "OS Type:": "Linux",
+        "Based on:": null,
+        "Origin:": "Malaysia",
+        "Distro Watch": "https://distrowatch.com/table.php?distribution=venom"
+    },
+    {
+        "Distribution": "Vine Linux",
+        "Home Page": "http://www.vinelinux.org/",
+        "OS Type:": "Linux",
+        "Based on:": null,
+        "Origin:": "Japan",
+        "Distro Watch": "https://distrowatch.com/table.php?distribution=vine"
+    },
+    {
+        "Distribution": "Void",
+        "Home Page": "https://voidlinux.org/",
+        "OS Type:": "Linux",
+        "Based on:": null,
+        "Origin:": "Spain",
+        "Distro Watch": "https://distrowatch.com/table.php?distribution=void"
+    },
+    {
+        "Distribution": "Volumio (formerly RaspyFi)",
+        "Home Page": "https://volumio.org/",
+        "OS Type:": "Linux",
+        "Based on:": "Debian (Stable)",
+        "Origin:": "Italy",
+        "Distro Watch": "https://distrowatch.com/table.php?distribution=volumio"
+    },
+    {
+        "Distribution": "Voyager Live",
+        "Home Page": "https://voyagerlive.org/",
+        "OS Type:": "Linux",
+        "Based on:": "Debian (Stable)",
+        "Origin:": "France",
+        "Distro Watch": "https://distrowatch.com/table.php?distribution=voyager"
+    },
+    {
+        "Distribution": "VyOS",
+        "Home Page": "https://vyos.io/",
+        "OS Type:": "Linux",
+        "Based on:": "Debian (Stable)",
+        "Origin:": "Global",
+        "Distro Watch": "https://distrowatch.com/table.php?distribution=vyos"
+    },
+    {
+        "Distribution": "wattOS",
+        "Home Page": "https://www.planetwatt.com/",
+        "OS Type:": "Linux",
+        "Based on:": "Debian",
+        "Origin:": "USA",
+        "Distro Watch": "https://distrowatch.com/table.php?distribution=wattos"
+    },
+    {
+        "Distribution": "Whonix",
+        "Home Page": "https://www.whonix.org/",
+        "OS Type:": "Linux",
+        "Based on:": "Debian",
+        "Origin:": "Canada",
+        "Distro Watch": "https://distrowatch.com/table.php?distribution=whonix"
+    },
+    {
+        "Distribution": "Wifislax",
+        "Home Page": "http://www.wifislax.com/",
+        "OS Type:": "Linux",
+        "Based on:": "Slackware",
+        "Origin:": "Spain",
+        "Distro Watch": "https://distrowatch.com/table.php?distribution=wifislax"
+    },
+    {
+        "Distribution": "Window Maker Live",
+        "Home Page": "https://wmlive.sourceforge.net/",
+        "OS Type:": "Linux",
+        "Based on:": "Debian (Stable)",
+        "Origin:": "Spain",
+        "Distro Watch": "https://distrowatch.com/table.php?distribution=wmlive"
+    },
+    {
+        "Distribution": "XigmaNAS (formerly NAS4Free)",
+        "Home Page": "https://www.xigmanas.com/",
+        "OS Type:": "BSD",
+        "Based on:": "FreeBSD",
+        "Origin:": "Netherlands",
+        "Distro Watch": "https://distrowatch.com/table.php?distribution=xigmanas"
+    },
+    {
+        "Distribution": "Xubuntu",
+        "Home Page": "https://www.xubuntu.org/",
+        "OS Type:": "Linux",
+        "Based on:": "Debian",
+        "Origin:": "Isle of Man",
+        "Distro Watch": "https://distrowatch.com/table.php?distribution=xubuntu"
+    },
+    {
+        "Distribution": "YunoHost",
+        "Home Page": "https://yunohost.org/",
+        "OS Type:": "Linux",
+        "Based on:": "Debian",
+        "Origin:": "France",
+        "Distro Watch": "https://distrowatch.com/table.php?distribution=yunohost"
+    },
+    {
+        "Distribution": "Zentyal Server (formerly eBox Platform)",
+        "Home Page": "https://www.zentyal.org/",
+        "OS Type:": "Linux",
+        "Based on:": "Debian",
+        "Origin:": "Spain",
+        "Distro Watch": "https://distrowatch.com/table.php?distribution=zentyal"
+    },
+    {
+        "Distribution": "Zenwalk GNU Linux (formerly Zenwalk Linux, Minislack)",
+        "Home Page": "http://zenwalk.org/",
+        "OS Type:": "Linux",
+        "Based on:": "Slackware",
+        "Origin:": "France",
+        "Distro Watch": "https://distrowatch.com/table.php?distribution=zenwalk"
+    },
+    {
+        "Distribution": "Zephix",
+        "Home Page": "https://zephix-linux.sourceforge.io/",
+        "OS Type:": "Linux",
+        "Based on:": "Debian (Stable)",
+        "Origin:": "Malta",
+        "Distro Watch": "https://distrowatch.com/table.php?distribution=zephix"
+    },
+    {
+        "Distribution": "Zorin OS",
+        "Home Page": "https://www.zorinos.com/",
+        "OS Type:": "Linux",
+        "Based on:": "Debian",
+        "Origin:": "Ireland",
+        "Distro Watch": "https://distrowatch.com/table.php?distribution=zorin"
+    }
+]
